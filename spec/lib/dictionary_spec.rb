@@ -10,7 +10,7 @@ describe Dictionary do
       let(:garden) { %w[Sunflower Strawberry Chickweed Carrot Aubergine Clover Clover Clover Plantain Cucumber] }
       let(:garden_without_weeds) { %w[Sunflower Strawberry Carrot Aubergine Cucumber] }
       it "removes the words provided" do
-        expect(weeds_dictionary.remove_words(garden)).to_match_array(garden_without_weeds)
+        expect(weeds_dictionary.remove_words(garden)).to match_array(garden_without_weeds)
       end
     end
   end
