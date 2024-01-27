@@ -1,0 +1,1001 @@
+id,city,country,weeds,garden
+90c6882f-ea0f-4b8e-9592-59089beb7a89,Timbuktu,Slovakia,Crabgrass,Aubergine
+f9a0e7b4-956c-4345-9064-24b7b9cd8c58,Darwin,Cook Islands,Japanese knotweed,"Strawberry "
+c9f4849e-9513-4757-9ec3-37ae7ed2e800,Dodoma,Uzbekistan,Chickweed,Clover
+110a44ef-3283-483e-a38e-987b49605c3a,Rabat,Netherlands Antilles,Chickweed,Clover
+a69d144b-465b-4778-bd8e-a3beae0358dd,Angra do Heroísmo,Qatar,Chickweed,Clover
+327460fb-b7c2-4ddb-b3a6-9d55d0655772,Yamoussoukro,Heard Island and Mcdonald Islands,Plantain,"Strawberry "
+5aa429a1-463d-446d-8e45-919d50835128,Barcelona,Venezuela,Chickweed,Aubergine
+836a4afa-ee66-4aad-b66a-5d074a989e93,Quito,Åland Islands,Clover,Carrot
+e4ab3838-280d-4454-86df-95cf586679a6,Bulawayo,Uzbekistan,Purslane,Chickweed
+72b9ef76-1671-4927-b5f1-67f9555ebb63,New Orleans,Serbia and Montenegro,Chickweed,Clover
+31c77be2-4f79-4303-9673-d9c749c5fe1e,Hanga Roa,Bhutan,Japanese knotweed,Cucumber
+75823e7c-e266-431b-bd57-35717e4b4cf2,Cartagena,Jordan,Clover,Clover
+9d6b74c4-1960-42b9-b32a-2f8946def690,Vilnius,Kyrgyzstan,Creeping buttercup,Plantain
+53c48791-dacf-4ef7-9da7-41823e323752,Warsaw,"Cote D""Ivoire",Crabgrass,Clover
+2e870a15-dc3d-47d3-91a8-981b3a144f46,Ouagadougou,Ukraine,Clover,Clover
+bd828ee4-c652-4662-8552-d23e31e30b0a,Vancouver,Jordan,Bindweed,Plantain
+255b83e9-556b-4833-968c-f9ee29c9ac32,Yellowknife,Libyan Arab Jamahiriya,Chickweed,Clover
+3c35b97b-b820-44cc-8ca8-55af275a00cc,Santa Cruz de Tenerife,Paraguay,Creeping buttercup,Sunflower
+d986002b-e03b-4acc-a9ca-14055611e253,Kigali,Hong Kong,Clover,Chickweed
+1c51d591-ee91-4e13-9c8f-d9e7019cd249,Port of Spain,Lithuania,Japanese knotweed,Aubergine
+f76a8e03-1ab6-4d7f-b5dd-982e851d4cc2,Sri Jayawardenapura-Kotte,Aruba,Creeping buttercup,Chickweed
+78efc6d4-f8b5-4dd8-9dc2-09d076bd80d2,Banjul,"Tanzania, United Republic of",Crabgrass,Plantain
+bd4b3f84-16f7-4d7b-a8a6-6a78c81a028a,Kuwait City,China,Bindweed,"Strawberry "
+0a205609-d13b-4448-a566-33164c6e5ca5,London,"Tanzania, United Republic of",Japanese knotweed,Plantain
+c4a9a63d-3b86-41e1-95ec-7d42dd7d3765,Tbilisi,Madagascar,Chickweed,Plantain
+23f66ee1-f7bc-4f72-913d-d6bee4cb1cda,Valdivia,Bhutan,Plantain,Plantain
+f7ce5e66-5968-4bcc-8769-7a77263001dc,Charlottetown,Philippines,Plantain,Chickweed
+272fc499-35f9-42f8-bba4-c2ffd08a3aa4,Nairobi,Jersey,Clover,Carrot
+17a85069-bfa7-4eac-8267-aaa760fae0b0,Valencia,Panama,Chickweed,Clover
+c8101bff-77db-4924-8cb8-1b72959b6ff1,Port Hedland,Tunisia,Crabgrass,Clover
+a6101d5e-bec9-478b-a996-40a18a378522,Bursa,Marshall Islands,Purslane,Cucumber
+d91132a1-57a2-4235-9023-0ba68c0b7bac,Cuiabá,Lithuania,Crabgrass,Chickweed
+ecedb5d5-3753-443e-86d9-7c19486a4e3d,Nukus,"Korea, Democratic People""S Republic of",Crabgrass,Clover
+695765f0-1748-4369-b8d8-f8f2cd582b56,Thimphu,Guyana,Clover,Aubergine
+1545759e-18b3-4c47-b0ad-4eee8ec7d36f,Málaga,"Korea, Republic of",Plantain,Plantain
+a641c454-bd44-4f32-8f7e-6b06a80f193c,Bissau,Ukraine,Plantain,Chickweed
+e3b1135c-afc6-4c8e-b855-35e74402dd40,Managua,Maldives,Plantain,"Strawberry "
+ec9f374c-32dc-40a6-b6c8-6a7e4884b448,Tskhinvali,Panama,Clover,Clover
+d1eedd5d-e02e-4d77-bcf7-62b247121f38,Saipan,Reunion,Chickweed,Sunflower
+8b830a7e-1479-4b89-ad9c-46ada53ce229,Hiroshima,Saint Lucia,Chickweed,Chickweed
+18bca3e7-3769-42f9-9452-47126c10be47,Bogor,Marshall Islands,Bindweed,Carrot
+f50beaba-7fcb-4cf4-b621-a11798d91bf1,Niamey,Cambodia,Creeping buttercup,Aubergine
+eedc90c5-a66a-437f-b57c-eaa0e832979c,Nagpur,Kazakhstan,Creeping buttercup,Clover
+23289038-a8b6-4538-80eb-21e22c3006c5,Yellowknife,Hong Kong,Purslane,"Strawberry "
+7e575c22-ba49-4049-90df-6014a66955de,Tampa,Uzbekistan,Crabgrass,Clover
+f04661d3-df4c-498b-ad21-996beb202a8f,Buffalo,Netherlands Antilles,Creeping buttercup,Plantain
+1b7729d7-b61f-4970-82e2-53c7fc1f65d3,Tegucigalpa,Tunisia,Plantain,Clover
+abeff009-b42a-4cea-9e0b-2deef2fbde7f,Innsbruck,Bolivia,Clover,Carrot
+36ed352c-4f95-4945-a86a-a73cf987445e,Ilhéus,Chile,Bindweed,Clover
+5f40f09b-39a3-44bc-bc7b-852e46f5fc9e,Cannes,India,Japanese knotweed,Clover
+86acf365-1678-4705-9251-32d6ad82718f,Muscat,Palau,Bindweed,Cucumber
+30239ca3-600b-475a-9f03-5b64fdf9a9df,Banda Aceh,Belarus,Bindweed,Clover
+337e0f03-483c-4ed7-95b2-5de7767880e8,Managua,Lesotho,Japanese knotweed,Aubergine
+e046bc31-b4a9-4a95-826d-42e402e70278,Virginia Beach,Netherlands Antilles,Purslane,Plantain
+71ef160d-0592-43ef-a05d-a0a227615788,Malé,Cambodia,Chickweed,Carrot
+6793b711-a186-4db7-8e21-7f01967fb59f,Kano,Azerbaijan,Plantain,Clover
+fbca40f2-535d-46f9-a182-8bcb540d6a7b,Caracas,Ecuador,Purslane,Aubergine
+ab1dd476-4ddf-4945-ad82-553dc0ba182a,San José,Singapore,Crabgrass,Aubergine
+e9864c7a-cfab-4187-b287-44954a0fb799,Vatican City,Faroe Islands,Clover,Sunflower
+da34a3e4-6ec8-4951-a52a-fa0b6678d945,Tamale,Cape Verde,Plantain,Plantain
+05ae43f6-379d-493a-a945-06a7aabbafd1,San Carlos de Bariloche,Grenada,Plantain,Clover
+21910d85-74a2-4c4f-832e-4c346397e184,Belize City,"Virgin Islands, British",Chickweed,Clover
+18bb86c0-009b-41a1-aa5a-b1fd83f918cc,Macau,Brunei Darussalam,Crabgrass,Cucumber
+b13eb814-a1c8-4992-be40-47e3d0dd4a9f,Bishkek,New Zealand,Plantain,"Strawberry "
+86447a52-7588-4fe8-ad57-805e7d3c6328,Handan,Comoros,Plantain,Chickweed
+318a7678-7619-4f5f-a105-7daac21515f9,Patna,"Korea, Democratic People""S Republic of",Creeping buttercup,Cucumber
+1a64bc4c-ff6d-4d4f-b4ea-c650ced12b9c,New York City,Trinidad and Tobago,Japanese knotweed,Plantain
+696a5064-eac6-4bee-884e-adc8a498202b,Chengdu,Netherlands,Clover,Sunflower
+f6667934-9004-435d-b067-3c3f4d6353d3,São José dos Campos,Åland Islands,Chickweed,Clover
+cdeba8f5-c3ab-4e3f-a64b-4c77d57a1495,Campinas,American Samoa,Creeping buttercup,"Strawberry "
+9bd9316a-8922-497f-bea2-8ff4c8370aff,Tucson,Germany,Chickweed,"Strawberry "
+825bb285-9bd6-41f0-8a4c-41bd52b00be8,Mamoudzou,American Samoa,Creeping buttercup,Aubergine
+7254808d-5d60-4c33-802f-242bc664212c,Thimphu,Australia,Purslane,"Strawberry "
+32a68fc6-2f33-4040-ae36-9d23061c71df,Linz,"Tanzania, United Republic of",Creeping buttercup,Chickweed
+8cb78fbc-e5de-4b3b-87e9-6351ebbd1baf,Bratislava,Lesotho,Bindweed,Plantain
+c970cee3-ac85-4a2b-9127-4dab5c9acc23,Oranjestad,Martinique,Plantain,Cucumber
+d6aae268-ae7a-4258-9d32-3409ba30c36d,Baku,Western Sahara,Japanese knotweed,Chickweed
+9c4e5cd7-c20b-46d1-9846-3d0915fa025d,Arbil,Estonia,Clover,Aubergine
+2dcd1cd3-97ac-4a60-987b-5cdb75646098,Roseau,Saint Lucia,Purslane,Aubergine
+4374e810-ce6c-4cad-b21d-2b8d01aeb12e,Moroni,Philippines,Plantain,Carrot
+18e4b3fb-cb35-4276-961b-27e1d3c5d3a7,Tallinn,Netherlands,Clover,Clover
+87c04f55-d398-4ce3-9d6b-9779fcefd919,Invercargill,Gambia,Plantain,Sunflower
+e96f3f15-998b-443e-b657-87211fcfc839,Melbourne,"Palestinian Territory, Occupied",Creeping buttercup,"Strawberry "
+16988a19-499a-4b43-abde-dc677c20a43b,Kandahar,India,Plantain,Clover
+f46e8f39-1bb8-461c-9dc8-4847631c5520,Francistown,Spain,Plantain,Carrot
+ec45e6eb-30f9-496b-a575-0719c2ed1eca,Arbil,Cayman Islands,Plantain,Clover
+8803ca92-e483-4fa4-825e-06509745f864,Bern,Sweden,Bindweed,"Strawberry "
+8e8fcf59-d27f-4baf-9145-f6ce9ffeafa4,Cologne,Kiribati,Japanese knotweed,Aubergine
+f5f3d726-5f9c-4a65-8107-374e6cf5a053,Guatemala City,China,Clover,Clover
+ec6eef5b-d5dd-4670-9caf-df8473b2ac88,Hyderabad,Panama,Japanese knotweed,Chickweed
+b0266749-368a-4949-bd08-b10ad500b906,Vitória,Finland,Japanese knotweed,Aubergine
+6835769a-31e7-4f12-a5f1-04e47f314a93,Córdoba,Nepal,Purslane,Sunflower
+5d8fa92e-c6ef-4f56-95df-11995c588a0a,Tucson,Afghanistan,Purslane,Aubergine
+f797827b-0cbe-485d-86a6-190283d9639e,Timbuktu,Sweden,Crabgrass,Clover
+9d739675-3a30-43a2-a080-8832eb08f5c7,Seoul,Guinea,Creeping buttercup,Plantain
+6896ef24-8cb7-4cfc-a949-47fe67fdf9cf,Pyongyang,"Virgin Islands, U.S.",Purslane,Clover
+c4af98e6-ccf2-4937-82a9-3e97ae8554e5,Gold Coast,Guadeloupe,Plantain,Chickweed
+d4fbb523-5654-4567-a84f-f71eedf906ea,St. Louis,Ireland,Creeping buttercup,Sunflower
+afdf3a07-11ef-4fa1-94f6-ec52126bbec0,Mamoudzou,Ukraine,Creeping buttercup,"Strawberry "
+8f66458d-b521-49d0-a73e-ea2511f5c10b,Milwaukee,Cocos (Keeling) Islands,Japanese knotweed,Clover
+0935a9cd-b873-4a29-a1fe-31a815474576,Campo Grande,Switzerland,Purslane,Plantain
+9fc4f65e-a34c-4fca-aa61-52d586da25e9,Geelong,Ecuador,Japanese knotweed,Clover
+9d7bf004-c291-4413-b595-66f04774a10b,Barranquilla,Belgium,Plantain,Chickweed
+f7f588ad-385a-4e17-87a5-f7d911494a39,Calama,Paraguay,Crabgrass,Clover
+3cc3b1f8-4f20-4921-bbfc-cf50208ceb41,Kawasaki,Sao Tome and Principe,Chickweed,Cucumber
+9a24dc3e-067c-4bc0-84ef-997b4771757d,Guwahati,Saint Pierre and Miquelon,Chickweed,Plantain
+d28ba87b-c039-4ab1-bcff-584bdff4c494,Montevideo,Greenland,Plantain,"Strawberry "
+f77b84ad-bba8-45ac-b32d-d1d57416d11e,Tirana,Mauritania,Clover,"Strawberry "
+20897668-7e50-4cfd-8b24-3d021b375ff1,Quebec City,"Tanzania, United Republic of",Creeping buttercup,Carrot
+72c2fb4c-7374-444f-9b07-9fdec6344ed9,Timbuktu,Ghana,Clover,Aubergine
+ff908d0a-c067-47e2-95a6-6b4255fffd52,Fukuoka,Oman,Bindweed,Clover
+74167309-94da-42a9-9008-ceafe6e26815,Manchester,Antigua and Barbuda,Purslane,Carrot
+35681256-ab6a-45b2-bd43-b0bc6386f8cd,Cannes,Chile,Clover,Carrot
+1a03f05d-9d67-49c6-8b1b-674e4ace3a1d,Charlottetown,Belize,Purslane,"Strawberry "
+09945ddd-c032-49d8-9d49-90f31e61ed5b,Djibouti (city),Bhutan,Creeping buttercup,Clover
+d9582dba-d35e-4d77-bb5d-cd6ffcd690f5,Antofagasta,Pakistan,Plantain,Clover
+5c96d8ff-839d-40a2-b73b-1d98bfc2a47e,Seoul,Sri Lanka,Japanese knotweed,"Strawberry "
+5fde3a5e-8e8a-4896-83fd-f641b56ea8b6,Amritsar,Saint Helena,Plantain,Plantain
+c7a6a17a-f75a-4e48-8328-dd7b9db3fab8,Gothenburg,Honduras,Creeping buttercup,Clover
+478cb96b-291c-4fae-a085-858789a9a6f3,Bern,Cuba,Crabgrass,Aubergine
+a6007511-906c-4e63-b6c3-8980b07436d0,Kanpur,Brazil,Chickweed,Aubergine
+42152164-c468-434a-aea8-7f2ed19474e0,Nuuk,Azerbaijan,Clover,Carrot
+0a017c2d-e93d-4e94-9dd5-803a23806e88,Livingstone,Togo,Crabgrass,"Strawberry "
+c4936b43-e218-4a0f-b233-c61c1c364f8a,Barranquilla,Burundi,Chickweed,Sunflower
+5be826de-c904-4554-9825-746c5917ec16,Detroit,Turks and Caicos Islands,Japanese knotweed,Carrot
+27dc5c4b-c3af-4bb8-9380-90a6541c2d9f,Mexicali,Bahamas,Bindweed,Sunflower
+0161406e-11fe-4417-a051-e84164416734,Pyongyang,Latvia,Japanese knotweed,Sunflower
+a7b8fd46-37c7-4c74-8e8e-bcf6ece7d7ac,Pattaya,Nigeria,Crabgrass,Chickweed
+40b23f92-4834-4442-af32-d49cb2b4c38a,Leipzig,Kyrgyzstan,Japanese knotweed,Chickweed
+4e10b469-b18f-4c9f-a7c7-5d12819418fe,Chicago,Nicaragua,Creeping buttercup,Plantain
+b6b57222-0a89-4c21-898c-e55a4d0dc827,Pristina,Saint Vincent and the Grenadines,Creeping buttercup,Chickweed
+af0d5fd5-0eca-4e59-aad7-b0c537f69d67,Las Vegas,Jamaica,Japanese knotweed,Clover
+d526b5a2-4021-40f0-b0d5-e9b4afbeb210,Yekaterinburg,Tonga,Creeping buttercup,Carrot
+1abdcd1b-172a-4b12-a36a-74a528c74415,Porto,United States,Clover,"Strawberry "
+85151199-29e9-431f-a176-1606849ad503,Kobe,"Macedonia, The Former Yugoslav Republic of",Clover,Clover
+2f94fae2-a411-4216-bc56-29865d25d699,Jamestown,Comoros,Japanese knotweed,Clover
+528ba332-bf56-4124-94cd-7d4c12b96d98,Mogadishu,Gibraltar,Purslane,Sunflower
+64e72075-6675-4f13-8ad9-b5c0d18096fe,Jayapura,Saint Pierre and Miquelon,Creeping buttercup,Aubergine
+ee56f8da-1249-467a-a432-9303a4ee7a40,Lucknow,Lesotho,Crabgrass,Clover
+31b9dc1e-b290-4eda-84a4-80fef80e260d,Warsaw,Switzerland,Bindweed,Clover
+8548c0ed-8321-4684-a54f-dd2305a8e971,Ibiza,Denmark,Clover,Cucumber
+c81cf7e3-c1ea-41a5-8ad2-8f5dc9a967f0,Chihuahua,Guadeloupe,Chickweed,Clover
+b65e1059-9e93-4720-8493-72a3919bce1d,Havana,Armenia,Crabgrass,Carrot
+d6d5e98e-403d-45bc-9795-29786416b232,Amman,Vanuatu,Clover,Plantain
+1fa66bc6-e7c2-400a-aa8d-61c65fe4abe7,Gaborone,Greenland,Purslane,Clover
+ba374ef5-0569-41ad-be68-da3561a0375b,Da Nang,Northern Mariana Islands,Crabgrass,"Strawberry "
+628acc72-6aab-4f7e-ba6c-6da6e6942c53,Mandurah,"Korea, Democratic People""S Republic of",Clover,Sunflower
+a0c1362b-189f-493a-b865-02a526f88a95,Dhaka,Bahamas,Clover,Chickweed
+6060db7b-cbc3-44ca-ae2b-0f955f04421e,Ljubljana,Brunei Darussalam,Clover,Clover
+a513b177-2b97-488a-9200-6d009341168a,Nouméa,Dominican Republic,Creeping buttercup,Aubergine
+0af81529-11f7-4750-b2db-abccafe6e09e,Shijiazhuang,Portugal,Chickweed,Plantain
+3c946186-01a2-4694-a191-e358ea55dd49,Phnom Penh,United Kingdom,Crabgrass,Clover
+9a23eb90-4b8b-4148-a9c0-66a174e43218,Suez,Somalia,Japanese knotweed,Sunflower
+6dbc93b8-ed97-4682-a097-691f7b48cd0c,Managua,Svalbard and Jan Mayen,Crabgrass,"Strawberry "
+4ed565bc-4c72-4255-80f2-3de5fc96f149,Chennai,United Kingdom,Japanese knotweed,Clover
+b23a221a-434d-4baa-ae3d-7f4bc84d34f1,Majuro,Equatorial Guinea,Plantain,Plantain
+332acd7c-1b35-4766-a93d-39088ef953e1,Medan,Saint Pierre and Miquelon,Purslane,Sunflower
+531b1ab9-9737-4a01-925b-8fe4e6d9ba72,Santo Domingo,Ghana,Japanese knotweed,"Strawberry "
+e2285595-c033-4e5e-9bac-551110c475ce,Handan,Ecuador,Bindweed,Clover
+bf8bc31f-1798-47f4-afac-b19db498b6c3,Kandy,Lithuania,Chickweed,Cucumber
+a2a0d46b-9b64-41bb-9861-c5924ced72bf,Kaohsiung,Panama,Chickweed,Clover
+14ba6dfe-7b31-43e6-b07a-e752cfd33037,São Paulo,Gambia,Plantain,Chickweed
+2f8017b8-feb3-4317-a5f0-401fb791d82c,Zanzibar City,American Samoa,Creeping buttercup,Sunflower
+e3642d24-6761-4b9c-aac4-63b04e40c99c,Hobart,Western Sahara,Crabgrass,Clover
+805a752b-c05b-4cf0-a34d-9dabec931b34,Pattaya,Oman,Plantain,Clover
+91d4dcb1-3aee-4fd0-a6e7-34022ec6028a,Macapá,Libyan Arab Jamahiriya,Purslane,"Strawberry "
+ad1f06d2-1088-4438-bd39-788b796c526a,Bridgetown,San Marino,Purslane,Sunflower
+3cec52e2-8771-40db-80be-4d81914ec42a,Manama,Bulgaria,Plantain,Clover
+9d17feb7-92cc-4946-b900-de21a9a96333,Mexicali,American Samoa,Clover,Clover
+3631934d-d0e5-43c2-b82a-7db1a325f369,Rabi Island,Antigua and Barbuda,Plantain,Clover
+860b9cb6-bfaf-48e1-8fa8-90b8aeba5d08,Port Said,Greece,Clover,"Strawberry "
+bcc7b211-e300-47d8-85ea-acff05c3896e,Hanoi,Burkina Faso,Bindweed,"Strawberry "
+f234b6d6-8019-4736-900c-588ea2799e38,Zapopan,Uruguay,Bindweed,"Strawberry "
+66fe431f-775a-41f2-b1ae-3c3c295f0505,Hobart,Saint Kitts and Nevis,Clover,Plantain
+2b1ff739-743d-420e-9eac-b47ab9a500e7,Manila,South Georgia and the South Sandwich Islands,Crabgrass,Sunflower
+0fc3c1c7-a991-4f27-9f65-51074ed73195,Handan,New Zealand,Chickweed,Clover
+f8689a90-f62e-4628-940e-ee2270eb40b4,Oslo,Ireland,Bindweed,Sunflower
+31106938-c923-4ada-aea2-f2834c180e2d,La Serena,Fiji,Japanese knotweed,Carrot
+d114b522-d747-4a98-8f35-9b5ba7b055fd,Abidjan,Peru,Bindweed,Plantain
+814658e6-acd1-4b54-a2bf-79a92c01286e,Faisalabad,Albania,Japanese knotweed,Clover
+bd06818e-dc91-4605-8694-d1c2aa11097e,Frankfurt,Uganda,Japanese knotweed,Clover
+16d11e44-bfe9-4caa-9064-40bc173d2c0f,New Orleans,Mexico,Japanese knotweed,Cucumber
+42f8675a-da9f-4856-81bd-64658accc37c,Weno,Gibraltar,Bindweed,Clover
+ebabbce3-dbdb-43f4-8c5c-5386c6754605,Banda Aceh,Australia,Bindweed,Plantain
+fdef6010-d736-4184-a9a1-cb5f75b92338,Gangtok,Martinique,Japanese knotweed,Plantain
+d2d2f1ea-84bf-4046-92eb-a8a89b58446d,Whitehorse,Cameroon,Creeping buttercup,Clover
+6732de63-373a-4429-90d0-7828e8e1f743,Skopje,Åland Islands,Plantain,"Strawberry "
+37ab296d-03c8-4453-b76f-3d646d2b8563,Nizhny Novgorod,Monaco,Chickweed,Sunflower
+126b3f4f-1dbf-454c-8d7d-776d70e5957e,Gothenburg,Morocco,Plantain,Clover
+560f234e-aa7d-4899-a254-134ba0810952,Tórshavn,"Virgin Islands, British",Chickweed,Carrot
+49550daf-ef0f-4804-b84c-e7adbaf79211,Sabha,Guernsey,Plantain,Clover
+5ac4bab7-d22e-4857-8d54-b33fe0bc2b1b,Dubai,Bhutan,Bindweed,Clover
+87d11425-43b2-4478-8950-cb0e6878174c,New York City,Martinique,Creeping buttercup,Carrot
+7d9da841-0be2-414c-89f7-50c4c5803e01,Vancouver,Saudi Arabia,Japanese knotweed,Carrot
+079e10be-8ad7-4879-b290-cd3edca1f9e7,Cologne,Gambia,Plantain,Carrot
+eab2285f-c7cc-454b-82e1-d50a71d54e89,Banjul,Kenya,Plantain,Carrot
+4c28b051-5f3b-4823-9e75-ed844c4c7b1c,Bahía Blanca,Liberia,Crabgrass,Chickweed
+635fa808-d99c-4f14-a723-f9b7f22b9fcf,Cairo,Sao Tome and Principe,Plantain,Chickweed
+4dcdb561-ace6-41c7-9046-a52cb61a8769,Rotterdam,Kenya,Plantain,Clover
+7ddcb9c0-079c-4463-b3d9-6aaa6ea54b21,Riyadh,United States,Crabgrass,Clover
+e5444fb3-12bf-42d8-b2b2-7a0076099f94,Bangkok,Samoa,Crabgrass,Clover
+a0f52029-734b-4634-8549-462e02587805,Gaborone,"Korea, Democratic People""S Republic of",Clover,Aubergine
+500d675f-b729-495b-b9bf-13bd94f1f893,Nizhny Novgorod,"Palestinian Territory, Occupied",Clover,Sunflower
+b331a07f-ed2a-4ae2-b18e-5444da394e5c,Sri Jayawardenapura-Kotte,Ukraine,Plantain,Carrot
+6086bc86-d1ab-4b72-8220-883cd7174f7d,Tunis,Latvia,Plantain,Clover
+852fbc43-a7df-49b8-a766-4f8f26a9f52a,Medellín,Chile,Crabgrass,Sunflower
+8123db3e-156a-404f-be1f-b69fe0670657,Cotonou,"Virgin Islands, U.S.",Plantain,"Strawberry "
+45ec7f05-0041-4b34-a978-9ba6d3090002,Toronto,El Salvador,Chickweed,Chickweed
+571eae06-013d-452d-9a42-1dbe2b92bf34,Rosario,Lebanon,Purslane,Plantain
+660316ff-d529-42d8-b76e-1374d4afba27,Taiyuan,Guinea,Creeping buttercup,Clover
+0e813675-ce93-42ee-8392-5a73f02c754d,Muscat,Marshall Islands,Creeping buttercup,Aubergine
+8ab5d5ef-c44f-49cb-82c3-1a18f197cbf6,Nouméa,Norway,Crabgrass,Cucumber
+225c194f-567d-4d6b-a33f-26558eb622f3,City of Halifax,Romania,Japanese knotweed,Aubergine
+ccbccc33-a701-4f1a-a085-1cc309f2d046,Calgary,Macao,Japanese knotweed,Aubergine
+d87a0dd8-d146-4de9-8364-62e6735fcf9e,Gaborone,Gabon,Clover,Plantain
+d0933d16-30d1-4c90-ba90-cb76c3f5bbc0,Batticaloa,Iraq,Creeping buttercup,Carrot
+9e151769-8ab1-444e-abac-418f33ec3e58,Zagreb,Romania,Purslane,Clover
+91642837-bf6d-4d43-a6e8-4e64dc88416a,Budapest,India,Creeping buttercup,Clover
+a9e86149-7761-4450-a669-9602d9083208,Invercargill,Zambia,Plantain,Clover
+6fb4974e-6e67-4169-9060-c49b3402b536,Porto-Novo,Grenada,Bindweed,Chickweed
+08176813-3372-43d5-ab33-b25919219e91,Indianapolis,Ukraine,Purslane,Cucumber
+21dab45f-99e5-4932-909b-9445ded5e34d,Calgary,Suriname,Crabgrass,Carrot
+f3f099d9-057d-4e98-b88b-bbce9be5b976,Ouagadougou,Qatar,Chickweed,Carrot
+42b943ff-ede1-4726-98bf-6dfcd4060e21,Saint John,Turks and Caicos Islands,Purslane,Clover
+e4d2ffa3-5d08-4a95-8731-89f17423005e,Multan,Lesotho,Crabgrass,Clover
+d1fcf123-ad45-4ae7-a09e-2a3b05cdb12f,Gdańsk,Czech Republic,Clover,Chickweed
+d83bf4e1-52bb-4207-9717-257144bbb9c4,Incheon,Samoa,Japanese knotweed,Aubergine
+6c7b1d5b-fe02-4597-be5d-9b49dd4ce955,Bandar Seri Begawan,Mozambique,Crabgrass,Cucumber
+9f2db846-7389-47ec-afce-a2fe091b8a00,Durango,Kuwait,Crabgrass,Carrot
+300f8890-d05d-4d14-ae9a-7248addfe47b,Dublin,French Polynesia,Chickweed,Clover
+16dcd9b0-0b16-4fe9-b743-ae46f7d64eec,Vatican City,Tokelau,Chickweed,Plantain
+bef76c0b-2876-4489-9847-a6bb7f3230e9,Buffalo,Christmas Island,Bindweed,Clover
+bd267623-e170-47bc-8089-d09d57407e9e,San Francisco,Cyprus,Plantain,Clover
+6861b272-7ac4-4836-8367-f65a90ef3f6e,Djibouti (city),"Korea, Republic of",Creeping buttercup,Sunflower
+b9b483d4-076e-447a-a006-cf3c56e35aea,Philadelphia,Comoros,Clover,Clover
+e53968fd-d562-46dc-b4f0-60dfe6185417,Moroni,Viet Nam,Plantain,Sunflower
+82007fb3-5b5f-4463-b3e7-735a32de74fc,Hanover,Egypt,Creeping buttercup,Plantain
+5d7775f9-0307-4e56-ade5-eb75da9e20ff,Sukhumi,Cameroon,Crabgrass,Clover
+d0d76f1f-3f73-4513-afaa-119c5bb6b992,Fairbanks,Guatemala,Bindweed,Cucumber
+7464b1f9-8119-40d1-8d19-6414d8580318,San Antonio,Mayotte,Crabgrass,Clover
+28227e25-a7ea-4f2a-a47a-440ec03c0f9d,Damascus,Central African Republic,Bindweed,Chickweed
+d8c69b1f-5c6c-489b-87ee-0ac640b0d488,Vatican City,Singapore,Clover,Aubergine
+e2248276-a7ac-4dc5-83e7-d9d533ec1ff0,Kunming,Saint Kitts and Nevis,Chickweed,Cucumber
+c36ffdc1-a751-4957-833c-5ff8502bdbb0,Dammam,Hong Kong,Bindweed,Aubergine
+5aecb0e3-329e-44cf-b722-a84b3c6545be,Dongguan,Saint Kitts and Nevis,Bindweed,Cucumber
+2aa3b0a7-f10a-4a2c-8fd9-18cb0ca956ec,Barcelona,Belgium,Plantain,Carrot
+784c28d8-e87f-47c2-b4a1-9aa3efcba617,Yokohama,Belize,Japanese knotweed,"Strawberry "
+3b3e882e-1abb-4ca3-995b-ce163ded46c6,Kharkiv,Jordan,Creeping buttercup,Clover
+43ac03d7-67f8-480d-ba1b-1a948ca98622,Medellín,Nigeria,Japanese knotweed,Clover
+3051a180-6751-49de-bb4c-4695a0012304,Accra,Estonia,Plantain,Clover
+c7b0340d-d1b6-4f43-935c-4dc681ea1f19,Tripoli,Ecuador,Clover,Chickweed
+2fa31d34-39ca-49e7-b3dd-860d59a64e82,Tamale,Chile,Clover,Carrot
+3bef49f5-12ba-4892-95f5-5e0ff0260e0e,Tegucigalpa,Faroe Islands,Crabgrass,Cucumber
+604f57e7-3fbc-48b2-8b06-9fa021adc750,Newcastle,Maldives,Clover,Plantain
+055c7ce6-06c5-4804-b56b-3d7581ccf620,Leipzig,Zambia,Plantain,Carrot
+5f0aee3f-968b-43d9-951b-d18d3030702c,Port Moresby,Viet Nam,Crabgrass,Clover
+fe37f517-8351-44c3-bda8-a91c8924cc46,Palembang,Somalia,Purslane,Clover
+470f8d82-6bc3-4301-af11-383b589c947e,São Tomé,Mozambique,Purslane,Plantain
+cbd99d59-abc6-4913-afce-31dad79461c1,Townsville,Senegal,Crabgrass,Chickweed
+0c5ce957-82f8-475c-8f0e-572cb58347dd,Adana,Switzerland,Plantain,Clover
+330f100c-5386-48d3-a20d-a01a25671f30,Hanover,Poland,Crabgrass,Clover
+fbb26ac1-d1cf-41ec-86e9-146d3128b75d,Gangtok,French Guiana,Chickweed,Clover
+4617936e-14e9-47e7-8eda-8f9b88238ce1,Townsville,United States,Creeping buttercup,Aubergine
+9cda3159-fa0d-4ca9-b7b4-7995ce945fbd,Odessa,Yemen,Clover,Cucumber
+33daf16d-103c-4501-b37b-c1e0fb1ffa83,Kolkata,Norway,Plantain,Chickweed
+4637a846-d647-4757-b6fb-f63c661bba6d,Cayenne,Guyana,Plantain,Plantain
+cd0ae537-70c0-459f-bf97-65d6613a248f,Yakutsk,Malawi,Chickweed,Clover
+a8c79eed-4305-4923-a9c3-0cf5c0532fe1,Medina,Kiribati,Creeping buttercup,Cucumber
+b77d94fe-eaf7-4dfe-ab9d-92b8f67625fb,Dededo,Reunion,Clover,Chickweed
+4605592d-aa67-4c7f-a3ad-4a9d28e4e5d7,Montreal,"Iran, Islamic Republic Of",Plantain,Plantain
+f935373b-f93e-41a2-ada8-cb69cc5d14bd,Tirana,Peru,Plantain,"Strawberry "
+0f1daa74-b490-4fc0-b0f9-9212c86e1c97,Phoenix,Belize,Creeping buttercup,Chickweed
+87c8203e-e1e7-4b32-b1df-43f4dd40cf22,Cape Town,Guadeloupe,Creeping buttercup,Clover
+cbd7a276-8f56-4518-934c-ae800e88f063,Kharkiv,Netherlands Antilles,Purslane,Carrot
+07baccf2-4518-421f-9d18-41e04db19e80,Nice,Burkina Faso,Chickweed,Carrot
+dc526c83-efd5-4e5d-bb47-9ea62a0fe802,Fredericton,Mauritius,Plantain,Plantain
+0e8f18b6-e7a6-41c9-90a4-722e4432e44b,New York City,Nepal,Purslane,Clover
+b0f4beb4-f9a2-45b6-919d-4c2d08bc148a,Kigali,Austria,Chickweed,Aubergine
+d9ad87b8-4832-4f6e-bd7c-d12f42fc8710,Omdurman,United States Minor Outlying Islands,Japanese knotweed,Clover
+14654099-0cb3-478c-8f84-9983333b4a05,Hamilton,Puerto Rico,Chickweed,Plantain
+6a6f6586-b0a5-4e09-8499-b6ad2bb18e87,Bucharest,Kenya,Plantain,"Strawberry "
+eac0b9b0-d1bb-4faa-a2af-46b136170020,Castries,Lithuania,Bindweed,"Strawberry "
+106b0559-94d2-4d31-a95c-1845777d8ff5,Dakar,RWANDA,Plantain,Sunflower
+f256d863-3141-4edd-b25d-b5f11df02ae4,Jersey City,Palau,Plantain,Chickweed
+a1f98ead-2649-4bf7-8c68-c54f87c991f2,Hanover,Trinidad and Tobago,Crabgrass,Chickweed
+e2f6702c-e4d8-467c-b3fc-feca4a2c9fe8,Valdivia,Bolivia,Bindweed,Plantain
+7a3ad826-26c1-485b-823b-6d304cdea24c,Copenhagen,Holy See (Vatican City State),Plantain,Chickweed
+b98584a5-ec13-41d5-8f28-00429c934334,Vienna,Cuba,Purslane,Chickweed
+2c4a1558-448f-44d2-bd9e-1211beae1fc1,Ahmedabad,Tunisia,Bindweed,Sunflower
+7f204291-5d6f-4726-bb21-28376e19127c,Ilhéus,Belarus,Chickweed,Carrot
+c686e292-03b3-48b4-8f8b-bf6b86af7ddc,Dededo,"Cote D""Ivoire",Plantain,Clover
+8658680c-7756-4fe6-940a-00b9fa718541,Koror,Mexico,Chickweed,Chickweed
+4e004a05-9e87-481d-860a-4247747a2572,Belmopan,Canada,Creeping buttercup,Plantain
+0931c3eb-ce5c-4de1-bce6-1b99ba51ff3b,Suva,Albania,Chickweed,Clover
+2dbead91-4477-48b1-9f44-503999b6b55d,Antananarivo,Mauritania,Creeping buttercup,Chickweed
+ac4f99d3-efc5-4ec8-b9a0-5c215b358a1e,Jayapura,French Guiana,Japanese knotweed,Cucumber
+2a6dbe09-34ab-433d-b0f9-c3ad83116fe1,Magadan,Kiribati,Clover,Sunflower
+f429a69a-9411-4b2a-9815-c7a30ed6c6ea,Porto,"Cote D""Ivoire",Purslane,Clover
+94acc513-ff04-4497-9cd9-a0c0b098c457,Yokohama,Jordan,Creeping buttercup,Sunflower
+df5cc60f-ba8b-4e40-bd9f-cef25ada79e3,Chicago,Canada,Plantain,Clover
+17be71c7-294b-4650-8c9f-39cb9626da64,Surat,San Marino,Japanese knotweed,Clover
+cb7a1aaf-d650-4c2e-ac67-c94e70733ec0,Panama City,Spain,Plantain,"Strawberry "
+ccbb30d8-6042-4abc-80e8-a9567774bf2d,Hong Kong,Algeria,Japanese knotweed,Carrot
+54eef8b6-1c02-49d1-8565-d1cfc3f86ac8,Stockholm,Spain,Clover,Clover
+5335d31f-84e7-49d1-b1b8-9c6de7d9a26a,Singapore,Honduras,Creeping buttercup,Aubergine
+ab2e794b-c1bd-4252-b498-3087006bd648,Yellowknife,"Korea, Democratic People""S Republic of",Purslane,Clover
+7d6496a7-f85f-4e08-ba98-26c11400b44d,Calama,Colombia,Plantain,Clover
+d21b47da-4dfb-4426-a1c5-f98f15c37e09,Moroni,Ghana,Japanese knotweed,"Strawberry "
+012a6f05-fca4-4c8b-983a-ba2b5a5c4a6c,Timbuktu,Sierra Leone,Bindweed,Plantain
+6c7d8347-185b-47cf-97c7-719f29781699,Koulikoro,Slovenia,Chickweed,Plantain
+2e6d74d4-2bc2-4abe-a149-0af58c9fa4e7,London,Israel,Chickweed,Sunflower
+08db94bb-53a6-4c1c-9bc1-399cbe275e1a,El Paso,Bermuda,Plantain,Carrot
+fbfadc0d-fae1-4a14-b540-d2b198331cb5,Dammam,United Arab Emirates,Japanese knotweed,Chickweed
+fa178338-f6d0-43d7-8e6f-1b04f5543e71,Saint-Denis,Azerbaijan,Plantain,Cucumber
+79b07140-e133-4678-b11d-c643b9c486ca,Tel Aviv,Russian Federation,Clover,Carrot
+8235da90-571f-41fd-92b4-8e8e06a64ac6,Lanzhou,Montserrat,Plantain,Chickweed
+c44492d7-a306-42c5-8b01-bbcfabc79cdd,Xining,South Africa,Clover,Carrot
+7e7b938f-0327-4a1b-93fe-400111b132ff,Bishkek,Tuvalu,Japanese knotweed,"Strawberry "
+80387514-2636-4783-8a2f-5c6c7128bd7a,Kobe,Brazil,Chickweed,Sunflower
+a94262b2-a100-4dcc-b01c-5c989bf1894a,Iquitos,Belgium,Bindweed,Carrot
+279303e2-3975-4985-9e8f-3e3c5b5ff2e0,Algiers,Bouvet Island,Chickweed,Plantain
+6530eba0-9b39-4b97-baca-bad26a6523c0,Niamey,Yemen,Creeping buttercup,Clover
+7f8f7772-b7ae-4bdd-8d30-f486568e3a77,Montreal,Mauritius,Chickweed,Carrot
+04518bca-f61e-4340-a962-62e5b1097856,Basse-Terre,Isle of Man,Japanese knotweed,Plantain
+d59169cc-e274-490b-a41d-e87f60caa0d1,Sucre,Slovenia,Japanese knotweed,Carrot
+1ec373a8-714a-4c87-a451-3703845bf6f2,Perth,Malaysia,Purslane,"Strawberry "
+e189a4e1-07db-49d6-866a-66b78bc58221,Pittsburgh,Poland,Creeping buttercup,"Strawberry "
+5c2ab420-1677-45c0-a19d-f72d9e91017a,Nantes,Gambia,Plantain,"Strawberry "
+37d238b9-6d5d-4cc1-aaaf-89902d4aedd6,Seattle,Tajikistan,Creeping buttercup,Clover
+66175efe-3469-4be7-9ce4-3a1ae4c2cf59,Kraków,Mauritania,Clover,Plantain
+36610481-c445-4181-a80b-75da126ee31a,Lyon,Zimbabwe,Plantain,"Strawberry "
+458bf719-4b38-46c6-b717-7578b6f51835,Singapore,"Virgin Islands, U.S.",Chickweed,Cucumber
+2a780c47-078b-40f2-a1d8-e957008d2c74,Campinas,Albania,Plantain,Clover
+26310cf2-aa21-4490-bc3c-f22d87b5b9be,Makassar,Kazakhstan,Bindweed,"Strawberry "
+27c979ee-791a-4f9d-8062-67674d11f4b2,Jersey City,Saint Lucia,Creeping buttercup,Carrot
+234e1802-ff23-4153-97d6-9fe9584ded30,Maputo,Chile,Chickweed,Clover
+c2f1a39e-ae20-4c3f-aac5-3d6347b2abec,Minsk,Jordan,Japanese knotweed,Aubergine
+8f30e1fa-6db2-4e92-90b9-9de6cea9d384,Milan,Israel,Clover,Clover
+7a19af87-9e2f-4917-ab43-39c8182468d8,Vladivostok,Colombia,Crabgrass,Clover
+b999901f-6c90-41a0-92bf-24b4d82d15fe,Yangon,Nicaragua,Bindweed,Clover
+5b3778dc-2861-43fb-8e2d-02b54ac525a7,Port Vila,Turks and Caicos Islands,Clover,Sunflower
+7e78ed11-1ded-46a6-8cd3-7dd675b766c5,Banjul,Togo,Bindweed,Plantain
+bc000a16-2ddb-4c93-98a4-d30c1d000063,Port Vila,Iceland,Clover,Clover
+caa0b67b-7b3b-48ce-bb7a-3e2599c0d1c4,Tskhinvali,Australia,Japanese knotweed,"Strawberry "
+2e4e8960-523e-43bf-8377-fd7a2d1ae0a6,Siem Reap,Antigua and Barbuda,Chickweed,Sunflower
+bdc928b3-beb8-4f2b-ab15-d9f776e9fa29,Mecca,Cayman Islands,Bindweed,Plantain
+42b575fa-9f27-4a02-b81c-0c08aca5f541,Salt Lake City,Romania,Japanese knotweed,Plantain
+aca5e595-8b8e-4d72-a985-826d1ee084fe,Ho Chi Minh City,Mali,Clover,Sunflower
+dd8a36d8-3587-4072-befb-475552e19b1a,Brasília,Haiti,Clover,Clover
+ff18c5f8-31ef-46d3-9566-d805f2615350,Hamburg,Luxembourg,Clover,Clover
+9281aa28-2be1-4abb-9496-5d1d6f48fc72,Yellowknife,Belgium,Clover,Sunflower
+965972a8-c667-4e87-b83d-765da20f2d9d,Saint-Pierre,Bolivia,Japanese knotweed,Clover
+eef78642-a74f-4cb9-84c1-40d4c9870a27,Libreville,Gabon,Chickweed,Clover
+878ec96a-4f04-4089-ba26-374a78217be8,Pittsburgh,Greenland,Bindweed,Clover
+ad494ee1-3bce-4ad6-b8e1-c1f6bd3f5e7e,Tegucigalpa,Sweden,Clover,Sunflower
+d1a7f6e8-3773-49e9-bf2a-c41b31267625,Moroni,Singapore,Japanese knotweed,Clover
+3d2e5f13-3109-487e-a8d2-c90fe88fa45e,Puerto Williams,Malta,Chickweed,"Strawberry "
+08fd711e-e556-474e-8aa0-6833023bf0f9,Mashhad,Peru,Chickweed,Cucumber
+1c115a86-17fa-43ff-ac22-a86f9af62517,Cairns,"Tanzania, United Republic of",Japanese knotweed,Cucumber
+4d38825f-bf7f-48ea-b084-ca82c7e0b334,Concepción,Bahamas,Crabgrass,Clover
+7283c122-a92f-4952-bed1-24aa7fd381c3,Kunming,Aruba,Purslane,Aubergine
+a13f2ec6-8543-490b-adf4-364648342b9d,Bridgetown,Cayman Islands,Creeping buttercup,Clover
+0185022c-4c3a-4506-be05-1a4be1a5cf87,Naples,Swaziland,Chickweed,"Strawberry "
+591ccf30-3a4f-46d0-b9b3-ee57f383292d,Melekeok,Saint Kitts and Nevis,Japanese knotweed,Aubergine
+d2db2706-0c5f-4bdb-b1dc-6bdee28f3a38,George Town,Italy,Japanese knotweed,Clover
+a027aa15-5747-456b-95c9-7c491c1ca14e,Canberra,Guam,Purslane,Clover
+c113dc87-b43a-409f-9573-bb5fda97a8ac,Thimphu,Vanuatu,Plantain,Aubergine
+9fcaf9de-efa4-40de-9730-43698fefa4f1,Sabha,Swaziland,Clover,Sunflower
+a319ded3-30fd-4bcc-9f08-10c3ab8dc371,Jaipur,Togo,Crabgrass,Carrot
+0e411c3c-9fe4-4b26-acb0-ee4895dea051,Apia,Northern Mariana Islands,Japanese knotweed,Aubergine
+b8687b17-8fc7-4cb1-a2c9-48b99a1b6ba6,San Salvador,Malawi,Bindweed,Clover
+b76f6712-b362-4fde-bcb9-4024a70a1f9d,Dili,Kuwait,Chickweed,Chickweed
+9f10f706-72b2-4f2a-a04d-4106ef149a81,Tagbilaran,Nigeria,Purslane,"Strawberry "
+573f47e5-969a-420a-b7d9-e7611ffe9465,Saskatoon,Hong Kong,Plantain,Clover
+deed3973-1407-42c7-971e-c1c26c0c5db9,Hong Kong,Sao Tome and Principe,Clover,Clover
+d1c2006f-17f9-491f-99ae-4c33daaf61bb,Mbabane,Algeria,Creeping buttercup,Clover
+f4e9cefd-ddfc-4e58-ad29-ea887de2a575,Niamey,"Congo, The Democratic Republic of the",Crabgrass,"Strawberry "
+fd2af2db-50a2-478e-913b-3654f1c64483,Birmingham,Hungary,Plantain,Sunflower
+2f2238dc-390c-45c5-bd8b-29606ad8740f,Winnipeg,Ghana,Bindweed,Clover
+c18a37ab-1ef9-4c73-a8c2-bdba8deb3c99,Mendoza,Guinea-Bissau,Japanese knotweed,Carrot
+aff856d5-d8d5-4bf7-aa0c-9cbad3290d7f,Kigali,Djibouti,Bindweed,Sunflower
+0a91ffcb-6e1c-480d-91ee-5e3b4fb81b50,Boa Vista,Heard Island and Mcdonald Islands,Crabgrass,Carrot
+9ccb7f53-342c-4dd1-a039-c7277d8274e5,Podgorica,Bermuda,Crabgrass,Aubergine
+36ddc0c8-ab1c-4925-a8f1-d01f24b2872b,Mamoudzou,Central African Republic,Plantain,Aubergine
+46fb8a7d-76fc-46d2-af4f-4856c3404740,Odessa,El Salvador,Japanese knotweed,Clover
+35465b86-8b4f-4232-9c0d-599d6309b9eb,Seoul,Czech Republic,Japanese knotweed,Aubergine
+bad542b1-4ecd-468a-bb37-5f3b0b591d08,Edinburgh,Slovakia,Bindweed,Carrot
+0a220376-7923-40e7-bcc3-19b3ca2183ff,Graz,Jersey,Bindweed,"Strawberry "
+f1664914-322b-4519-94fe-af82957dc2fc,Ciudad del Este,Congo,Creeping buttercup,Clover
+e5917a7c-4795-4046-81f6-62ad8013fb1a,Dakar,Fiji,Crabgrass,Chickweed
+3eae0c95-15bb-40c3-88f6-ae7dac9a046f,Casablanca,Kiribati,Chickweed,Sunflower
+da22c850-3a95-4ef9-a845-d1a71763b0b0,Manzini,Uruguay,Clover,Plantain
+a61b82ab-9b64-4a96-92a8-7786c815c603,Surat,Lesotho,Plantain,Clover
+f405e6ad-131a-4c0f-99f4-299b9bb2211c,Munich,Brazil,Purslane,Sunflower
+c257500b-59c2-4c4a-8140-7c3707650259,Shillong,Samoa,Plantain,Cucumber
+b565fb16-d77c-4cd2-89c1-c388fb786f8d,Punta Arenas,Antigua and Barbuda,Purslane,Clover
+cc43f54f-7ec6-492c-bb60-ea82ddb9b7de,Funafuti,San Marino,Chickweed,"Strawberry "
+5bc9270a-6b4e-4374-bf77-c88cb82a402e,Suez,Haiti,Purslane,Chickweed
+77804aef-2111-4b9f-86cc-b1692b098bd9,Hangzhou,Kenya,Creeping buttercup,Sunflower
+e6f29411-e1df-4efe-8b31-7e31049cb8f0,Thimphu,Gibraltar,Bindweed,Clover
+23a61675-2273-4fbc-91cb-db4ff182e581,Darwin,Iceland,Creeping buttercup,Aubergine
+222695b7-fdbe-48df-a21d-06d23e5d722d,City of San Marino,Jamaica,Chickweed,Clover
+2b10c535-e063-44f6-8291-0dbca636979e,Norilsk,Mali,Plantain,"Strawberry "
+90f5d67a-f524-4687-b21a-c309bee31fba,Pyongyang,Sri Lanka,Plantain,Cucumber
+d9939196-7d02-4d71-8394-8e8f6fda5d17,Labasa,Mauritius,Plantain,"Strawberry "
+3d180308-fad5-43b0-b10e-6914e89d1926,Malmö,Niger,Japanese knotweed,Plantain
+0e0066bd-be97-440d-a8b7-2e9cd022b675,Zürich,Faroe Islands,Japanese knotweed,"Strawberry "
+c5de1f98-7d7d-4e21-a3c4-b453374af594,Jacksonville,Antigua and Barbuda,Bindweed,Chickweed
+81875064-0295-4a14-943e-910504cbaee1,Petropavlovsk-Kamchatsky,Iraq,Japanese knotweed,Carrot
+21d9b83e-1e26-423e-8be3-8fb43c2131d5,Kiev,Falkland Islands (Malvinas),Japanese knotweed,"Strawberry "
+b84fc326-eb77-4eb7-89ae-f5a383767ad9,New Delhi,French Guiana,Chickweed,"Strawberry "
+3fe35896-02fa-41a9-9123-88ee6f0be3dd,Kolkata,Uganda,Clover,Clover
+e2e25ee7-6c40-46d0-bff2-a2aabedbd05c,Antwerp,Jamaica,Japanese knotweed,Cucumber
+c424ccaf-7b34-4aa0-91bf-1c42e275ea97,Fortaleza,Reunion,Creeping buttercup,Cucumber
+d236a25e-bdc2-4c4e-aff9-7e73986ddb50,Providence,Nauru,Purslane,Clover
+390714b5-b787-44a0-8ddc-921dfee17a12,Cuiabá,Tonga,Crabgrass,"Strawberry "
+a5869d39-3e27-4cfb-8bac-487767ea980e,Naypyidaw,Uganda,Crabgrass,Aubergine
+345c77d3-9d72-4024-822f-ada5b96bf62d,Lagos,Madagascar,Plantain,Cucumber
+5d893c33-4513-4cdf-a5e5-c67f040b25f3,Minsk,"Virgin Islands, U.S.",Clover,Clover
+15ed1dff-0647-4ae0-bc59-49a66dd111f6,Willemstad,Montserrat,Bindweed,"Strawberry "
+d474b933-260d-4991-b403-0cb4e9a10cfe,Managua,Nepal,Japanese knotweed,"Strawberry "
+b8bdf260-7c8d-41cc-8ddd-6738b54247cb,Valdivia,Senegal,Japanese knotweed,Clover
+6c1805de-c197-4b08-82cb-14a3179b3d94,Rosario,Solomon Islands,Crabgrass,"Strawberry "
+0e6b076f-0d58-428c-bb87-3ecc67f7d82f,İzmir,Slovenia,Japanese knotweed,Sunflower
+eef61447-d374-4cc6-b256-e9bdf6511596,Jaipur,Barbados,Chickweed,Carrot
+01455f1e-87a9-4121-b160-70a6a611abbf,Raleigh,India,Plantain,Clover
+9bbdce68-07e9-400e-affa-f773512b9179,Kingston,Spain,Clover,Cucumber
+f55cb68c-2b9f-4fa1-8154-17e347c80918,Porto-Novo,Georgia,Clover,"Strawberry "
+40a4e853-aeca-4bba-9a42-f8e3343d50c6,Horta (Azores),Brunei Darussalam,Plantain,Clover
+c88c74ec-5105-4077-b9ad-caf36087d90a,Semarang,British Indian Ocean Territory,Bindweed,Clover
+47fc3fc2-a0b1-4953-a633-73e7b6a5abf8,Malmö,Samoa,Chickweed,Aubergine
+0d4f3161-9f36-4b9a-9328-fb714519fcc5,Port-au-Prince,Poland,Crabgrass,Plantain
+f6695de8-a072-415d-b250-957371465101,Cebu City,Mozambique,Crabgrass,Sunflower
+c7381091-40c1-4d5b-ac87-ffdc5fee554d,Santiago de Cuba,Netherlands Antilles,Chickweed,Aubergine
+6c8b7f98-aeb2-4f02-851c-0af404b6a424,Frankfurt,Finland,Crabgrass,Aubergine
+027494ea-7ef1-4307-b1f9-9ae998599fd2,Zagreb,Greenland,Japanese knotweed,Clover
+6b2b15ee-b606-44ce-9fb8-b1b653da9fe1,Colombo,"Virgin Islands, U.S.",Bindweed,Cucumber
+c9520906-16aa-4bdf-8f57-ad4f605f4cec,Mogadishu,Lithuania,Purslane,Clover
+ff0eadf8-b84f-4b70-a9b3-e34bb48dd716,Kanpur,Dominican Republic,Purslane,Clover
+89f0cc11-b1e0-46ce-b50d-cb64b53d93e5,Boa Vista,Bolivia,Bindweed,Clover
+3b2b62cb-d8af-47ff-bfd3-71781f3d575f,Dushanbe,Chile,Japanese knotweed,"Strawberry "
+39d594b4-c037-4260-966b-139beac51c01,Salzburg,Saint Vincent and the Grenadines,Purslane,Plantain
+9434436a-f9ab-454d-adca-3324f05b7e3d,Oklahoma City,Eritrea,Crabgrass,Carrot
+c7e14e01-1e69-41b5-96a3-2951b8a2d0cb,Zhengzhou,American Samoa,Chickweed,Cucumber
+44460cf4-10b5-4fb9-83c1-d6d55af76073,Puerto Williams,Falkland Islands (Malvinas),Purslane,Clover
+679588b9-59c4-4f43-9f4a-b7c7aae670c2,Stockholm,Viet Nam,Chickweed,Carrot
+322f0996-578e-4389-9beb-74d5b1777eed,Rabi Island,AndorrA,Plantain,Cucumber
+959a78e1-87c2-4ca4-b8f6-9b5abea10757,Santiago,Slovenia,Japanese knotweed,Plantain
+4e595ee7-283d-435c-a020-cecae861e99c,Asmara,China,Crabgrass,Plantain
+4d2d1e11-505f-485a-872e-87d21272a597,Kigali,Georgia,Chickweed,Plantain
+944541d4-25b4-4994-a04d-1bffc719f9fc,Abidjan,Dominican Republic,Chickweed,Aubergine
+0f541c38-9bd6-4e22-aca0-6422f242a044,Barranquilla,Kiribati,Plantain,Clover
+b5d2c391-1222-4c42-9b68-21cb2910cf8f,Campo Grande,Sierra Leone,Chickweed,Aubergine
+26140af6-ef32-4072-8ab0-58a1db01a1e1,Malmö,Croatia,Purslane,Chickweed
+628fcf2a-bd1d-4297-9bd4-45b0171a26ac,Athens,Netherlands,Crabgrass,Clover
+c55f2e5a-0942-4b52-8345-84c6c3f39ae0,Gibraltar,Lesotho,Chickweed,"Strawberry "
+2abad427-b715-49d8-be84-e87c08231eb6,Srinagar,RWANDA,Crabgrass,Aubergine
+beec3012-2900-4a27-a35a-cfea281d45b6,Medellín,Burundi,Bindweed,Cucumber
+579261f0-83d9-4689-8acd-eeda44872fec,Iqaluit,Equatorial Guinea,Plantain,Sunflower
+bd09d4ee-2787-4ff3-8d7e-9403ecb45902,Manama,Senegal,Japanese knotweed,Clover
+42312df1-2df9-4b30-ba4f-aa0172c1878c,Mashhad,Singapore,Crabgrass,Plantain
+1e2a10ba-4de3-40b0-be39-c20d6ef995fc,Baghdad,"Lao People""S Democratic Republic",Crabgrass,Clover
+76d359e8-0af3-4bb8-8127-4afb06a0b270,Xi'an,Somalia,Bindweed,"Strawberry "
+72e51f11-ffd4-4d03-98ef-88a8d2983959,Tianjin,Seychelles,Japanese knotweed,Sunflower
+b7881166-031b-481b-b32e-94f18dbd9edf,Khartoum,Nepal,Creeping buttercup,"Strawberry "
+f5522a28-9838-4389-b906-40541b29431c,Dongguan,Zambia,Bindweed,Carrot
+ef017b8e-293f-4f7f-932e-9df06d0e422a,Longyearbyen,Eritrea,Crabgrass,Cucumber
+eac13456-14d2-4ac5-9d1b-f8e9f4c2f1bb,Pelotas,Latvia,Plantain,Carrot
+8f637032-4e2a-4d6e-8e8b-2d17f32372ec,Saint-Denis,Thailand,Bindweed,Chickweed
+6e0d6624-2b1c-4851-8e7b-a02cbded8efc,Douglas,Congo,Creeping buttercup,Cucumber
+7cad3e51-4906-493b-bbbc-eb2780143f49,Jaipur,"Palestinian Territory, Occupied",Crabgrass,Sunflower
+3c428ed1-752c-41fc-8c05-2a512c0c3fbb,Brisbane,Tajikistan,Clover,Clover
+8d2398dc-f9c2-4eff-98c5-b82e3a624b9f,Fortaleza,Canada,Creeping buttercup,Carrot
+0e68b3ca-2f70-46be-8817-00c4bbfaa582,Kunming,Monaco,Japanese knotweed,"Strawberry "
+248ecbd3-175d-481e-9cb7-e2b37bf514cb,Moroni,South Georgia and the South Sandwich Islands,Plantain,Clover
+3bcea74f-1ba2-46fd-b8aa-9b9dd946e19c,Ushuaia,Haiti,Chickweed,Clover
+7eeec738-b920-480d-aae7-88854a394c92,Shanghai,Myanmar,Creeping buttercup,Clover
+2fd24c12-87a6-4c90-b7da-fb36bc530914,Handan,South Georgia and the South Sandwich Islands,Clover,Sunflower
+835d90e3-e45f-4232-b891-f77236ed4b98,Porto,Anguilla,Bindweed,Clover
+6d021628-09e4-4069-93ac-edc9afb05dd8,Wonsan,Czech Republic,Chickweed,Sunflower
+433c4349-ecd2-4aa8-b7a2-5e3719e4da20,Guangzhou,Namibia,Bindweed,Sunflower
+9755f894-9666-4150-a8f5-4bfb2b5e3b8d,Lisbon,Malaysia,Bindweed,Sunflower
+142f1a1d-c5a7-41bb-95aa-b485cbebd4b6,Port Elizabeth,San Marino,Clover,Clover
+785542a5-c979-4535-af26-285f5ad3cf63,Ashgabat,Mauritania,Creeping buttercup,Chickweed
+dedc0ad0-f2be-421b-9455-059424eefd36,Belgrade,Vanuatu,Crabgrass,Clover
+67800e29-b29e-402b-833b-40f4105b35a5,Belize City,France,Japanese knotweed,Clover
+9ad06a58-f6d2-4413-bf5b-57725b194345,Nagpur,Nigeria,Bindweed,Carrot
+c88b3b9a-375e-4f2e-b2aa-2bf6cdfe563c,Toulouse,Cayman Islands,Creeping buttercup,Clover
+c5784484-ab47-45a3-b3b5-7ca9d31cfa0c,Punta Arenas,Spain,Bindweed,Cucumber
+d2507f05-f327-4302-80b3-690efb053b8e,Rome,Dominican Republic,Clover,Carrot
+ff35cdaf-b038-4054-8ba0-3d8c755ff0a8,Punta Arenas,Russian Federation,Plantain,Plantain
+544260d4-c2ea-4ab0-998e-cbcb04534ce9,Denver,Hungary,Japanese knotweed,Plantain
+c12bc66b-3632-4184-beba-24acced2196a,Kingston,Hong Kong,Bindweed,Clover
+a2291490-274d-4ea7-9cc9-de3d185977aa,Paramaribo,Somalia,Chickweed,Clover
+5bf5eac8-5f4f-4bbf-a63e-0bde63b9f86e,Tabriz,Pitcairn,Creeping buttercup,Carrot
+bcc6ac7a-b445-4fd2-9147-cf3446f27d33,Edmonton,Yemen,Japanese knotweed,"Strawberry "
+462578ff-4a15-4883-9a95-b24d94fb86d9,Hamilton,Hong Kong,Japanese knotweed,Clover
+6c656f6e-8b12-4cb3-b9da-3c6d08f908fa,Davao City,Reunion,Chickweed,"Strawberry "
+ce63afc1-34ad-4536-9a40-d50d0882475b,Salzburg,Burundi,Chickweed,Cucumber
+465d4092-7672-4019-92cb-fea2350ea811,Tegucigalpa,Denmark,Plantain,Cucumber
+29de713a-36e1-4a8a-83e8-8e2714f943af,Dar es Salaam,Armenia,Creeping buttercup,"Strawberry "
+d0f77e1a-f6d5-4f91-af70-aaebc5a6c418,Tijuana,Togo,Crabgrass,Plantain
+a215b855-f52d-4b94-847d-3134238887bf,Arequipa,Jamaica,Bindweed,Carrot
+1c4ffb2c-7d62-4fda-bae3-1ced0ed92630,Cali,South Georgia and the South Sandwich Islands,Japanese knotweed,Plantain
+e4ce4ed3-244f-41b6-b5cb-b50997e64ea5,South Tarawa,Italy,Chickweed,Sunflower
+326b6351-6892-4729-b643-9286438d6f37,Amman,American Samoa,Clover,Carrot
+0fb24712-6e08-4362-9a26-85b2eccdf2e8,Pekanbaru,Luxembourg,Crabgrass,Aubergine
+108c353b-bd13-4ffd-bfd3-873803afa864,Dallas,Somalia,Purslane,Clover
+345fb7c2-92f3-431b-a59a-07ce0ae85646,Durango,Kazakhstan,Clover,Sunflower
+2994bd98-a035-4f5e-ae62-682b0a1162e5,Mogadishu,Suriname,Japanese knotweed,Clover
+d4723d47-59d8-4b0c-95f8-3d60a9f0ca26,Guatemala City,Bolivia,Bindweed,"Strawberry "
+0a4f14d7-0aa5-4f38-9c40-d82e1895b3d0,Vilnius,Brazil,Clover,Cucumber
+772e5dff-0497-4af8-a38e-fea8abe6d84e,Hamburg,Antigua and Barbuda,Japanese knotweed,Plantain
+ac0926ee-5766-4c26-94b2-9570844ca4b2,Antwerp,Uganda,Clover,Carrot
+785668fe-e2af-4c50-8bc8-6b0e8b3ff961,Lobamba,Oman,Clover,Carrot
+5d7402ff-ecfd-4a85-b069-1ac6d4d9d03b,Surat Thani,Guatemala,Creeping buttercup,Sunflower
+70d373b2-dd7a-49bf-8078-27f6f0475789,Wonsan,Liechtenstein,Chickweed,Plantain
+91ec1c5f-0769-477d-9421-e534275be5fe,Koror,India,Clover,Carrot
+335a6edc-8b69-4914-9e31-0a88fb169057,Seattle,Tonga,Plantain,Cucumber
+28b935cb-0f14-48b9-a06b-1d323d1771f2,Surat Thani,Sierra Leone,Plantain,Clover
+27b826aa-dc33-4868-a30b-a06652e9501a,Rosario,Algeria,Plantain,Cucumber
+b6f75aa4-b946-4b77-8540-7827f7c10842,Adamstown,Saint Lucia,Creeping buttercup,Clover
+5399cdf4-c712-4768-9ef3-9732cf693913,Perth,Saint Vincent and the Grenadines,Crabgrass,Plantain
+aee890a5-3dc0-4c47-908d-2d17ca606fcf,Brikama,Saint Vincent and the Grenadines,Purslane,Clover
+23e19345-942c-451f-adea-48c3b3e435c3,Konya,Barbados,Chickweed,Clover
+f73c53ff-f207-49e7-8531-abd2335dc076,Blantyre,Chad,Clover,"Strawberry "
+0b894c72-69b4-469b-8d3a-1d57da706b1d,Gibraltar,Georgia,Creeping buttercup,Clover
+08381ecc-2167-4384-b4c8-23b1da6aa399,Yerevan,Lebanon,Crabgrass,Clover
+2fcab0c0-22ee-41e8-9a33-b6494ad7007b,Phnom Penh,Ukraine,Clover,Plantain
+2fe8bee3-d60d-4759-9f49-c63d8ca69a32,The Valley,Turkmenistan,Clover,Carrot
+504dbdfe-49fe-4cb0-9864-daf22d6cf8d9,Petropavlovsk-Kamchatsky,Chile,Purslane,"Strawberry "
+52597a51-5e81-47f3-9ca8-ad6aa5f86b2b,Taipei,Swaziland,Japanese knotweed,Chickweed
+ad1b0ef3-37e0-4cca-80c2-be3418ed96dd,Baltimore,Cameroon,Bindweed,Chickweed
+4944a903-ca91-416f-8fdb-1295bb574ee5,Gaziantep,Turkmenistan,Japanese knotweed,Plantain
+c838820b-c1a9-48b7-9ede-476e40a39813,Valletta,Poland,Chickweed,Clover
+c1b14aa5-caf7-4441-8d81-d7cdb80e5220,Freetown,Cameroon,Purslane,"Strawberry "
+4445d09b-5c8b-40a0-abf7-6a8c49c18154,Enugu,Tonga,Clover,Clover
+ee81b378-2bfd-4259-a427-4f03d055fc84,Wellington,Paraguay,Chickweed,Clover
+f731a3be-14de-4419-a507-f0d131c56c98,Amritsar,Venezuela,Bindweed,Clover
+ccf0f40c-54b1-41c9-8c15-abd63cecae4b,Saint John,Equatorial Guinea,Japanese knotweed,Clover
+3c446328-b720-49fb-ad05-5931fa6970a2,Mashhad,Faroe Islands,Crabgrass,Aubergine
+2f1081f0-cacb-41af-aedb-e1b7501251e6,Odessa,Venezuela,Creeping buttercup,Clover
+df5b4f1a-6a68-4ad4-a07b-6b76ad19c23b,Santa Cruz de Tenerife,Macao,Creeping buttercup,Clover
+49970462-013f-4b95-b3ca-411a00affd14,Juneau,Gambia,Chickweed,Sunflower
+0e68e9f0-8842-49bb-9ad9-d66ae8ee6232,Stockholm,Spain,Bindweed,Aubergine
+f813db32-a2e1-41af-88ab-c320dde01f94,Monrovia,Aruba,Chickweed,"Strawberry "
+1e24c03e-b209-4b09-94b2-2a06a054d2ab,Kuala Lumpur,Vanuatu,Japanese knotweed,Cucumber
+ca219940-9fcb-4580-9ad6-87348e7ec3d7,Gaza,Uganda,Chickweed,Carrot
+80d82afc-4946-4b2b-9039-bc4ece418668,Timbuktu,Dominica,Japanese knotweed,Chickweed
+b770f0d3-276a-48c0-92b0-874f7aa91dd6,Philadelphia,RWANDA,Creeping buttercup,Chickweed
+a0189a9d-8b52-4b97-83a6-0e07e8cd34eb,Bloemfontein,Philippines,Chickweed,Clover
+8e501af3-46a5-46ab-8ec8-19054f554792,Tijuana,Saint Kitts and Nevis,Japanese knotweed,Plantain
+9ddaba53-d678-48af-9612-36530c802aee,Handan,Mexico,Bindweed,Sunflower
+a16144e7-3fdd-435b-88f1-32ef88b46478,Bahía Blanca,Wallis and Futuna,Creeping buttercup,Sunflower
+53052a1e-2d79-474b-8e23-7593266da975,Antananarivo,India,Crabgrass,Chickweed
+9feecaeb-2a78-4d43-ae6d-5f3696f7c881,Newcastle,Fiji,Creeping buttercup,Cucumber
+14374d3b-8554-4f27-b256-b4080daecf16,Chongqing,Malaysia,Purslane,Clover
+0aabc9e2-f819-468c-96fa-fc54f0d6d513,Invercargill,Pakistan,Creeping buttercup,Aubergine
+51eca9f8-1672-44a1-8bf8-a9c2334b1579,Forked River,Haiti,Plantain,Aubergine
+89aa6b9e-d34e-4606-b9be-161813fcab64,Nice,Eritrea,Japanese knotweed,Cucumber
+120cd20f-0145-40e5-b769-f87476a0b93d,Sydney,Guatemala,Clover,Chickweed
+b42cb218-9b38-43ec-90e6-0f0fa7380115,Nukuʻalofa,Burkina Faso,Crabgrass,Plantain
+138829ce-ff4f-4419-9a5b-8c9c01927be5,Kingstown,Isle of Man,Chickweed,Clover
+e59a87fb-564a-4c35-ba67-1ef7f1d1b35d,Chişinău,Libyan Arab Jamahiriya,Purslane,Clover
+2e8760b5-60d9-4213-85c1-7af46ef5d35b,Bratislava,Italy,Chickweed,Sunflower
+4b75598d-7a98-48f9-89f0-efbc78e12ced,Conakry,United Arab Emirates,Crabgrass,Plantain
+a9a23e4a-42b4-4fc4-af43-c928bc9f8bb8,Cusco,Liberia,Crabgrass,"Strawberry "
+980d463c-7aa0-4c77-ba37-bd8ff017e200,Medina,Armenia,Japanese knotweed,Plantain
+da643695-d0b7-4121-ac34-90cc88477b9d,Yekaterinburg,Bermuda,Plantain,Plantain
+8df4cfdc-8b40-4e8e-b77f-1f913f754abd,Moroni,Kenya,Japanese knotweed,Aubergine
+d948692d-9a11-4125-b7c1-8bf1284ebae9,Macau,Sri Lanka,Clover,Sunflower
+897d3680-2dcd-4286-9425-e2496fd6ee31,Alor Star,Poland,Plantain,Plantain
+f2480a10-6114-40ca-a41c-d9e838727536,Kinshasa,Nigeria,Creeping buttercup,Aubergine
+039bd160-dc4e-4f9d-9709-8589d36e2ef8,Rockhampton,Dominica,Japanese knotweed,Aubergine
+6b5b26dd-87e1-4621-b471-fbc762019bfc,Anadyr (town),Sweden,Bindweed,Clover
+1842a32f-b8f4-4976-9ba0-c1b6faf8e418,Vientiane,Kazakhstan,Bindweed,Clover
+6176441f-3a59-465b-9297-0af144feaea7,Malmö,Jersey,Purslane,Cucumber
+8834397c-67d6-4af0-acf6-73370fdc0eda,Tbilisi,Niue,Plantain,Plantain
+f4058dd3-f978-445f-8101-e6883de4cede,Lagos,Myanmar,Clover,Cucumber
+cb63f560-c4d9-4a64-85cb-58216111cf38,Udon Thani,Austria,Japanese knotweed,Cucumber
+bc1694dd-7b59-4d43-bc0f-ae95b296f180,Macau,Cook Islands,Bindweed,Carrot
+cc74e898-9c79-4b72-9fef-a5601184bc08,Ankara,Switzerland,Bindweed,"Strawberry "
+90858841-1cf9-452c-8428-eec4649eef8a,Manzini,"Lao People""S Democratic Republic",Bindweed,Clover
+e3da7ded-eb77-4918-8973-276bfd55e984,Lagos,Slovenia,Creeping buttercup,Sunflower
+25ceb87d-75cc-49d2-81be-ba7de4a28325,Brasília,Argentina,Chickweed,Cucumber
+f91abcde-8219-44e9-b3a3-4c924975f8fa,Sri Jayawardenapura-Kotte,Madagascar,Chickweed,Clover
+8f1c9d08-43f3-485c-9f6c-1b48199060ce,Raleigh,Dominica,Bindweed,Chickweed
+8749f136-b135-4aa7-a10b-ac6df8e919a4,Jamestown,Bhutan,Crabgrass,"Strawberry "
+c9233b8c-cd2e-4fb2-8590-405e8ea01589,Nukus,Spain,Japanese knotweed,Cucumber
+f65e1b6e-ea0a-4df7-a76a-8ab8d1c77b8d,Yokohama,Central African Republic,Japanese knotweed,Plantain
+5b5c0a5f-8f58-4880-a915-4c1c5db6af7e,Ibadan,"Korea, Democratic People""S Republic of",Plantain,Clover
+838e22c3-67e8-4758-8d88-75cfd3996ed2,Sabha,Togo,Chickweed,Aubergine
+f2835d0d-da46-4341-979e-373681aad1d4,Kandahar,Botswana,Creeping buttercup,Clover
+cdb66a5f-3f2b-4ef0-99d0-c8825a58b430,Vienna,Peru,Plantain,Clover
+e6582572-3b80-4922-9438-f36697931011,Iquitos,Chile,Chickweed,Clover
+cf7e6008-711c-486f-8821-fff34efe75d5,Recife,Angola,Chickweed,Plantain
+24598347-e0b6-411c-a10c-e88db922c009,Perm,Japan,Bindweed,Clover
+a1e744e1-6d25-4414-a623-445815b19afe,Madrid,Malaysia,Japanese knotweed,Aubergine
+f8855228-b84d-4989-bae1-27e5d325af57,Koror,Croatia,Clover,"Strawberry "
+9028b1d4-414d-47a8-8a0e-b7f65c719577,Semarang,Belgium,Clover,Clover
+267edf42-b13e-4e9e-8077-9bf6c1e8a914,Ashgabat,Isle of Man,Bindweed,Clover
+68006e9b-5d25-4e65-967e-c413cb3c8f74,Tel Aviv,Austria,Chickweed,"Strawberry "
+c5e139ec-8f88-4bb2-8d26-a9f634d26d01,Mbabane,Finland,Clover,Clover
+9454ada4-2a6c-4823-b1f3-e3b1134bd305,Macapá,Reunion,Crabgrass,Carrot
+343e0acf-a02d-4c4e-956a-698580cd56f9,Leeds,Colombia,Chickweed,Clover
+5df2413d-3533-432d-8495-2a6fa2042e14,Porto,"Cote D""Ivoire",Creeping buttercup,Sunflower
+58aa149d-75dc-4f2e-bf98-e4f8b5caac4f,Port Louis,Palau,Bindweed,Carrot
+98956590-76a3-47b4-bf12-dbc9971b669c,Miami,Cyprus,Japanese knotweed,Cucumber
+99ea7bc8-8529-4da0-afe3-f83af2d4fc83,Guatemala City,"Korea, Democratic People""S Republic of",Crabgrass,"Strawberry "
+6b443c66-1ef5-44d9-aecb-03af8e6462ca,Sapporo,Turkey,Clover,Plantain
+1701f10d-eb68-4811-8ad4-48ae94ce27c4,Cologne,Tuvalu,Chickweed,Clover
+3df57242-0cd1-4f80-ab40-2525098fba7c,Andorra la Vella,Åland Islands,Bindweed,Chickweed
+68f777fa-7a47-4644-ad0b-6e5478634ba1,Cork (city),Tokelau,Japanese knotweed,Clover
+2954d1ce-4ec1-4990-bf47-6d17921075a1,Buffalo,Lebanon,Japanese knotweed,Plantain
+104a5054-eb48-4634-bdf5-0abdd15a0df8,Yakutsk,Bermuda,Chickweed,Plantain
+35b4bb94-7c4f-49dd-a855-e6536513a1a2,Hong Kong,Liechtenstein,Japanese knotweed,Aubergine
+f8edf8f1-c3a2-4754-962b-2a39b5d4e171,Vilnius,Panama,Purslane,Aubergine
+9a45f2d9-52bc-4e40-9413-e4cd9be746e7,Stuttgart,Denmark,Japanese knotweed,Carrot
+9fd8dfb8-87ba-4056-ae4f-5143f904dccf,Doha,France,Crabgrass,Clover
+f91268f7-69bc-4178-a8f8-7ea64fc4a2eb,Cuiabá,Honduras,Creeping buttercup,Clover
+7caada0e-7677-4d88-9eec-90887d100ed5,Lobamba,"Macedonia, The Former Yugoslav Republic of",Bindweed,Clover
+8ceeff6e-9dcd-48d6-94fe-6513a44f163e,Gothenburg,Gabon,Creeping buttercup,Chickweed
+13c1e5e1-c03f-4c32-b031-1421c2e597c5,Port-au-Prince,Samoa,Purslane,Carrot
+5bfc27e2-28c9-47cf-94a6-8611c3c0992b,Reykjavík,Viet Nam,Creeping buttercup,Clover
+f07ce01e-fbe4-47ef-823e-6b9061503241,Santa Cruz de la Sierra,Cyprus,Clover,Chickweed
+59ef9bc5-591d-4147-9df2-c800c0554896,Yerevan,British Indian Ocean Territory,Bindweed,Cucumber
+0ee5aa2a-273e-46b7-87ef-742ef32f4d8a,Jerusalem,Maldives,Clover,Chickweed
+35a0cd52-dddd-45dc-8300-ffeba77d5c1d,Canberra,Denmark,Purslane,"Strawberry "
+419e154f-e6d6-423a-b80b-b9ae2494be64,Port Louis,Tokelau,Crabgrass,Clover
+d202e3d3-acd0-4dd6-903e-491ef0e1b10f,Dakar,Qatar,Japanese knotweed,Clover
+a5d8f60b-ab50-4844-bb4f-835ebd0a821d,Malang,Mozambique,Japanese knotweed,"Strawberry "
+be34b84e-25e4-462d-945f-4ffd47d36e57,Christchurch,Eritrea,Chickweed,Cucumber
+3c2904dc-4ef4-4a0f-9405-3fcfbd273ada,Lubumbashi,Qatar,Purslane,Chickweed
+a72172aa-7cb1-4628-824a-485894a1d547,London,Holy See (Vatican City State),Bindweed,Aubergine
+4e700a05-23b1-4783-a37f-5b6a670ca846,Kolkata,British Indian Ocean Territory,Clover,Clover
+805ffe05-267f-4cc9-b977-58273dfcc7c3,Alofi,Trinidad and Tobago,Plantain,Clover
+eb88a349-18a4-41be-a50d-4d21aafbb38d,Chittagong,Zambia,Plantain,Clover
+89b45570-ae86-4f87-95c8-e8522793e0b5,Veracruz,Christmas Island,Plantain,Carrot
+7c5608b3-4807-481a-8c65-243d9fc31a12,Weno,Yemen,Purslane,Carrot
+23ba048e-2dff-4859-bed4-ca8096052a4f,Adelaide,Bolivia,Purslane,Clover
+0e0728f5-4498-437e-ba20-081becbed068,Nukuʻalofa,Ghana,Bindweed,Plantain
+a0c01414-d1c2-4aa9-a3c5-451c44643091,Yekaterinburg,Ireland,Bindweed,Sunflower
+d83950e5-c880-4936-b8cc-72cce048116c,Harbin,New Caledonia,Japanese knotweed,Carrot
+1a86fb0d-1b9d-4916-b220-25a1f410be01,Calama,Bouvet Island,Bindweed,Carrot
+0bbc0bed-b27e-46b1-ad77-5cf83281c9a5,Mersin,Haiti,Plantain,Plantain
+9e119089-37e5-41a8-a14b-a20f6c09985e,Zhengzhou,Martinique,Crabgrass,Clover
+9a9ad335-9b8c-486d-8b5c-1b5a84c8dca5,Nantes,Kuwait,Crabgrass,Clover
+72dbccff-ccfa-4f3c-8c49-6e8fd01c288f,Kota Kinabalu,United States Minor Outlying Islands,Plantain,Clover
+7bd46a5a-b594-4331-a98c-973ca1a8f868,Fredericton,Cuba,Japanese knotweed,Clover
+a668b98d-f020-498d-8721-dcc3671e64c7,Lhasa,Poland,Purslane,Clover
+7b728967-424d-482c-b5ef-5d03eac6479d,Córdoba,Burundi,Creeping buttercup,"Strawberry "
+07c4d276-0453-4f00-bf03-7598c85600f9,Thimphu,Finland,Clover,Sunflower
+603584bd-4fbc-41e5-b691-4c84689a5c0f,Kyoto,Liberia,Creeping buttercup,Clover
+0d38ec97-5185-495c-817a-c6067306b623,Lyon,Cuba,Clover,Sunflower
+2891bdd0-4f0a-4363-aa5d-0d1d63cfeef7,Cannes,Israel,Chickweed,Chickweed
+6aaacdd9-0340-4977-8e6e-9da65791a655,Melekeok,Iraq,Creeping buttercup,"Strawberry "
+464ff665-e6dc-4bdb-983d-52190bf8894f,Wollongong,Swaziland,Clover,Carrot
+eacc60df-6ec0-4e8a-9396-c3ed19a15e94,London,Chile,Clover,Chickweed
+28eb8ee8-4383-4719-a0dc-77a336e82c50,Dubai,Italy,Crabgrass,Sunflower
+06729146-c0fb-45e9-a1eb-6d70d1a46015,Cotonou,Cape Verde,Purslane,Aubergine
+9de21a96-b6c0-422f-8514-c9a146b1e3c9,Douala,Isle of Man,Clover,Cucumber
+f3b0d7a7-e7f8-4f39-8a24-15f8a0b89d6e,Zanzibar City,Tuvalu,Japanese knotweed,Chickweed
+2e183fb6-584d-4ca8-a409-3a7522c80733,Nassau,Ghana,Crabgrass,Clover
+72b93fa0-2a18-4bb4-a439-ddffa462c7d5,Cape Town,Luxembourg,Japanese knotweed,Clover
+3750a3c4-fa4a-42b7-b594-078645c8e84f,San Salvador,Liberia,Purslane,Plantain
+cf2b99ae-fe9b-4406-ab14-db2d03ee7984,Birmingham,Uruguay,Japanese knotweed,Clover
+144f16e6-3786-448c-981f-f4e146be6730,Samara,Costa Rica,Crabgrass,Chickweed
+25907eb3-804e-40ba-94c3-a2e77d2ff4e9,Madrid,Trinidad and Tobago,Purslane,Chickweed
+a8644219-47ad-49b0-b23f-286b139784b5,Espoo,Samoa,Plantain,Sunflower
+311f1bf2-150d-4e3e-af5b-471e39a37bfa,Daegu,Zimbabwe,Clover,Cucumber
+0787d142-f030-44e2-b1e7-1fe89b9d9a81,Pyongyang,Saint Pierre and Miquelon,Bindweed,Clover
+ef380a30-e050-4b82-b8c7-ef2bc9bfc1a1,Palikir,Botswana,Chickweed,Chickweed
+93ff3d86-a00c-4fc7-8bce-8893068b0f7d,City of Halifax,Chile,Creeping buttercup,Clover
+52020dc6-0a9b-467a-b508-5f35e4506e00,Kota Kinabalu,Palau,Bindweed,Aubergine
+10e2423e-a441-4a6d-93c5-3e586e3fee5a,Changchun,Saudi Arabia,Clover,Carrot
+d6d4afd8-d6fc-4a4b-b406-19514fe77ef5,Pekanbaru,Isle of Man,Japanese knotweed,Clover
+85bafda6-ac50-4aab-a501-83a1f8d9243c,Kaesong,Kiribati,Creeping buttercup,Chickweed
+9c37f303-7059-46bb-b15f-a5e46647b142,Nagoya,"Lao People""S Democratic Republic",Plantain,Clover
+cf30fcaf-f040-4829-b9a1-3b5f8d500ca3,Strasbourg,Wallis and Futuna,Japanese knotweed,Aubergine
+6f6b25ec-68d9-47b4-901f-4875f9d84321,Dhaka,Guinea-Bissau,Japanese knotweed,Clover
+2afb197e-9c5a-482e-8f6e-c7c5330c299e,Reykjavík,United States Minor Outlying Islands,Chickweed,Clover
+7e9a02e4-52cb-4469-a76c-e32fd544987b,Guayaquil,Brazil,Purslane,"Strawberry "
+8f218386-2582-4c37-9cb4-28089dc76be8,Xi'an,New Zealand,Chickweed,Cucumber
+7a92f1fd-a5a1-4811-b3eb-c5ea15f2e42e,Caracas,Comoros,Clover,Clover
+7c9c9fe2-f808-4a3a-9f93-f9e8145f607c,Wichita,Faroe Islands,Bindweed,Plantain
+b21cfe55-1c8a-4632-b448-bc0967bc1471,Saint-Pierre,Antarctica,Japanese knotweed,Plantain
+2fbebb08-fe45-4ec6-a8f2-88d41f8ee87c,Brikama,Kuwait,Creeping buttercup,Cucumber
+bbca2104-27e0-4584-8f2f-67bfcb3f8ec1,Port Hedland,Maldives,Japanese knotweed,Clover
+feea993f-5746-42c2-9d71-a113bf049cd1,Darwin,Uruguay,Clover,Cucumber
+1876e95e-4b26-4c2b-a1e1-30d36f768389,Cairo,Jordan,Crabgrass,Cucumber
+7165dbaf-5917-45d6-86e4-c9154c7834d8,Forked River,Hungary,Japanese knotweed,Carrot
+885bdebc-d5b6-4849-be32-d9a5263db984,Seattle,Bermuda,Creeping buttercup,"Strawberry "
+f8ca72f1-9fdd-45c7-8b82-561e88f97734,Honiara,Slovakia,Purslane,Plantain
+b81dd836-bb13-490f-9988-fd93dad399f8,Avarua,Malawi,Crabgrass,"Strawberry "
+3ef4fdc5-e11d-41c7-a4f0-a248b241ec8b,Zamboanga City,Pakistan,Chickweed,Clover
+67b517b1-3ff3-41cd-af60-3388d78d5f46,Okinawa,Central African Republic,Clover,Clover
+4c115929-5a9f-4a63-826a-56a34adc0ddb,Kuching,Uganda,Chickweed,Clover
+bb7a19da-4302-44db-b190-325323801374,Mandurah,Hong Kong,Crabgrass,Clover
+cf8ce412-d789-4e26-b3ae-de5202bced98,Greenwich,Faroe Islands,Purslane,Carrot
+66d268cc-f7d0-42c6-a631-d3b8a8401ca2,St. George's,Finland,Chickweed,Plantain
+7b54a3a0-dad1-49b0-865d-59e972bf1817,Toronto,Chad,Creeping buttercup,Cucumber
+497eb2e8-0362-4cb9-b2c1-552cc0718811,Baku,Greece,Creeping buttercup,Sunflower
+a4f1702c-b76e-49fe-bfea-c2975ea45810,Kota Kinabalu,United States Minor Outlying Islands,Bindweed,Clover
+ccd79b6a-5bff-4dbf-a283-6df4f3dad76c,Tallinn,Åland Islands,Plantain,Clover
+8c7b4d50-d507-450c-b30c-23fb58c3bb41,Willemstad,Chad,Creeping buttercup,Plantain
+a1935669-8d9c-4da1-9521-8a0966bcf96f,Stanley,Western Sahara,Creeping buttercup,"Strawberry "
+f79eba6d-0e39-4520-b1ec-d7758a3d0be7,Fukuoka,Qatar,Purslane,Chickweed
+46d65d5a-122b-4f5c-84b8-7ec92cfd9c15,Zagreb,Heard Island and Mcdonald Islands,Chickweed,Aubergine
+fd2da0f7-5a5d-448d-bdd3-f0f9667fb8ba,İzmir,Poland,Japanese knotweed,Plantain
+0ac8c8ae-de6c-423c-a16f-231af26958c3,Malabo,Guinea-Bissau,Clover,Chickweed
+f87c52fe-2ed7-4ca9-9721-854299a18814,Perm,Uzbekistan,Japanese knotweed,Cucumber
+3f6aeff9-d7f9-4620-88a0-5e5fbf2e7cff,Cebu City,AndorrA,Clover,Sunflower
+e9270f4d-6e41-4625-9424-9ac0d43e473f,Baku,Northern Mariana Islands,Purslane,Cucumber
+0518263e-a6bb-47a8-b16d-683c1ce92c40,Hargeisa,"Macedonia, The Former Yugoslav Republic of",Creeping buttercup,"Strawberry "
+b7ec3d02-f0a1-4383-97f7-9abe91b75a3a,Podgorica,Estonia,Crabgrass,Clover
+9548cd75-b620-4eff-9f69-eee3c8e00f44,Dalian,Slovenia,Chickweed,"Strawberry "
+85e98c92-857e-4f37-afae-16745486bd50,Surat,Fiji,Plantain,Clover
+c75f3412-c948-4a2e-9986-d68402b97a67,San Antonio,"Korea, Republic of",Plantain,Aubergine
+4fd4d155-7883-457b-bb2d-5e24462d46f9,Port Elizabeth,Uzbekistan,Crabgrass,"Strawberry "
+91e01e7f-96b7-4ad9-88ab-9ee3cfb7981c,Tucson,Monaco,Bindweed,Clover
+339cf8de-d495-43e9-9046-be55d62ef50a,Lusaka,Grenada,Crabgrass,Sunflower
+221279df-40a3-44da-b19c-13af8b038ee8,Baku,Zimbabwe,Creeping buttercup,Sunflower
+0d29542e-2912-432d-b5b3-2c3d4dd81f00,Dibrugarh,Pitcairn,Purslane,Clover
+02a1204b-1f0b-4e2e-98e8-51260e21cc9d,Castries,"Tanzania, United Republic of",Clover,Clover
+5e7f419b-ba20-4e35-ad61-3e08ec2afcdf,Bridgetown,Armenia,Crabgrass,Carrot
+f780c7e2-ceae-4804-acc8-a60f623cdaa2,Niamey,Venezuela,Clover,Clover
+12f7957c-3bba-4f7e-a617-f7668a6112c8,Las Palmas de Gran Canaria,Cocos (Keeling) Islands,Creeping buttercup,Sunflower
+2d38d638-ef0e-44f5-a7f7-0ba45c060c9f,Lyon,Sierra Leone,Bindweed,Chickweed
+39492037-b9d1-43e9-aedd-ab87be41ad14,Handan,Luxembourg,Crabgrass,Clover
+c1ae24bf-cb72-4aa4-a355-e81e1592d215,Melekeok,Niue,Purslane,"Strawberry "
+d794c298-5019-4a9d-8065-f76b7baa0bf4,Handan,Paraguay,Crabgrass,Aubergine
+bc627f47-6e13-483c-add9-c3973cae8754,South Tarawa,Central African Republic,Clover,Cucumber
+e4fc435a-44f0-46c9-bc94-d5b70f0f6675,Cologne,United Arab Emirates,Creeping buttercup,Cucumber
+70482ac5-7a04-4c93-988f-7eefc10c9951,Jaipur,Morocco,Chickweed,Cucumber
+60fb3a4c-f319-4174-8401-3e2983ab5d84,Havana,Sierra Leone,Japanese knotweed,Clover
+9148808e-fe17-4265-9180-940772e62c14,Pago Pago,Mauritania,Purslane,"Strawberry "
+f14f29d9-d66b-4ce6-a706-88258a914b25,Iquique,Argentina,Bindweed,Cucumber
+bb9b8971-df75-45d8-b9af-400c24e987af,Suez,South Africa,Purslane,Clover
+f64ebd3c-e5de-47b6-9fab-4058ff23d10f,Nassau,Malawi,Chickweed,Clover
+9ea46157-8820-40dd-9830-45c71928d7df,Albuquerque,Poland,Chickweed,Clover
+3bbcd861-beaa-4a3d-8edf-57799560bd02,Norilsk,Qatar,Bindweed,"Strawberry "
+965b0a4f-f803-4cda-9edd-2f5e7744c1f1,Bergen,Benin,Chickweed,Chickweed
+50a9d4d2-afdf-4661-9eae-79c238f0906b,Hanover,Martinique,Bindweed,Carrot
+d336a5bc-f55a-41ed-a6b1-f4d7da500779,Salzburg,Bermuda,Japanese knotweed,Aubergine
+bd53ee1a-a05e-47a1-9682-3acec76dd438,Luxembourg (city),South Africa,Crabgrass,Clover
+8ef04be6-4359-4343-b8a7-3ddc124c868d,Kyoto,Croatia,Bindweed,Carrot
+8b6034a2-b96f-400d-ae9c-9c2a9c1db54b,Adana,Swaziland,Bindweed,"Strawberry "
+faeb8e9c-0366-43da-9410-5116cdf54090,Ashgabat,Myanmar,Bindweed,"Strawberry "
+6498696a-6694-4108-8c96-b54800c3b79c,Yerevan,Mali,Crabgrass,Chickweed
+0af092ac-1587-480a-b1c7-007080e53148,Chişinău,Reunion,Chickweed,Clover
+30f72f68-5112-4054-a3b7-bd5965eff5aa,Wuhan,Sri Lanka,Creeping buttercup,Clover
+aefebc72-8473-4ffc-9de6-675e133ec9fc,Bloemfontein,Western Sahara,Clover,Aubergine
+620462b7-c1dc-4cc9-83a2-2e3cb9fd0afa,Fort-de-France,United Arab Emirates,Japanese knotweed,Plantain
+65afc10e-1f66-42fa-b19c-75fe15ce5650,Malabo,Macao,Bindweed,Chickweed
+b6d297c9-9c23-4df2-b836-0962aaa70f26,New Delhi,Ethiopia,Clover,Clover
+438cf110-c07c-4c78-8c33-632002efc963,El Aaiún,Oman,Creeping buttercup,Sunflower
+c2b1310f-8fd0-48b6-9021-13e7960c162a,Pittsburgh,Bahrain,Plantain,Aubergine
+2b2a97f6-9957-4907-a4a3-658bfe07647a,Medan,Isle of Man,Clover,Clover
+8b5a7421-aff4-41b3-ab9f-2bffbca27ed2,Quebec City,Azerbaijan,Crabgrass,Cucumber
+6d9145e4-8ed3-436d-bb17-84f3bdd3cca9,Monaco,Georgia,Clover,Plantain
+bcf4e17e-8277-40b6-82a7-54e6ef18cdbd,Nizhny Novgorod,Burundi,Clover,Carrot
+dde31678-2812-462d-9d21-3466521010df,Norilsk,Ukraine,Purslane,Plantain
+ea30a537-9def-4326-8ab9-a5688f6418ec,Seattle,Kuwait,Purslane,Clover
+2124b836-6148-4bde-a309-5686c46b9441,Peshawar,Puerto Rico,Japanese knotweed,Carrot
+b04e30f5-c5a0-4f1f-b0c2-0f4ba2a94b26,Guangzhou,Belize,Bindweed,Chickweed
+8cc06eef-d0bb-41d4-b3b8-84b4450202dc,Marrakech,Kenya,Creeping buttercup,Clover
+3d5d2d14-4940-4071-b52e-4670797cf228,Alexandria,"Micronesia, Federated States of",Crabgrass,Clover
+556865d4-0443-4275-a900-7749d2ebfe46,Paramaribo,Cape Verde,Bindweed,"Strawberry "
+6740ed72-ffe6-4d3c-a08e-6162c41c4857,Edinburgh,United States Minor Outlying Islands,Creeping buttercup,"Strawberry "
+7ff24512-9dbc-44b4-8dc5-4d5bb2a33f99,Ponta Delgada,Cook Islands,Creeping buttercup,Clover
+5e48369b-60c0-42a3-bf17-d0e8151a0626,Hangzhou,Trinidad and Tobago,Japanese knotweed,Chickweed
+a101d0bf-9b0d-48c1-b278-25896c38c586,Baku,Guyana,Bindweed,Cucumber
+93381b5e-d9ca-45de-9f2d-090cfced8e7f,Boa Vista,Zambia,Bindweed,Carrot
+ba18222d-ce09-4c5a-90ab-3932a4c33cf3,Andorra la Vella,Spain,Chickweed,Aubergine
+1dcb63ed-13e3-464e-8dd6-602d2e1adc74,Montreal,Portugal,Japanese knotweed,Plantain
+328600d3-6cc5-479a-891a-152781baf042,Quebec City,Christmas Island,Chickweed,Carrot
+368d46a2-1498-4524-8aff-aa21de371122,Santa Cruz de la Sierra,Cook Islands,Purslane,Clover
+32d752f2-3786-41c4-a2e9-e6ba5fa29cfb,Pune,Maldives,Purslane,Sunflower
+5c132afe-c52a-4d3c-8890-c2b76906412e,Konya,Slovenia,Chickweed,Sunflower
+2572812f-2923-4696-90d7-2b76ffd62836,Hanover,Bermuda,Creeping buttercup,Carrot
+fdee4bcf-733d-4fd2-b346-81ce4248d90e,Brisbane,Austria,Clover,Sunflower
+ad0407b9-2564-4828-b593-ed244f0cd664,Addis Ababa,American Samoa,Purslane,Clover
+cbc23e09-28e3-4dc7-b1f5-1eb6d2c7a9c9,Patna,Kazakhstan,Chickweed,Plantain
+72f59c6a-2ac2-4d97-a463-842b44152cc3,Cockburn Town,Netherlands,Chickweed,Clover
+2d27a0a5-41c2-47e5-b3e8-bf84330e0a95,Strasbourg,Guernsey,Chickweed,"Strawberry "
+55c137be-0e0a-42d4-80ea-213de5eff739,Dunedin,Norfolk Island,Purslane,Clover
+eac2384c-b9b5-4de8-b447-d8bbc0b25ef2,Beijing,Brazil,Creeping buttercup,Aubergine
+e762ec41-b99f-4f0b-a109-12e890a690f5,Greenwich,Suriname,Chickweed,Chickweed
+9b68aa50-21d9-4f47-8e28-12bd7205b526,Brussels,Åland Islands,Clover,Aubergine
+71cbf43c-88dd-4418-b4a2-1ef39f93dc40,Campo Grande,Switzerland,Crabgrass,Cucumber
+9490fbcd-559a-4772-9aee-ce1364e3d29c,Cannes,Indonesia,Creeping buttercup,Sunflower
+a30b68e2-050c-417d-a65d-5d618930eff5,Batticaloa,Isle of Man,Clover,Carrot
+6ba2b7eb-83d4-4523-812d-936b982f9868,Monrovia,Bermuda,Japanese knotweed,Clover
+cd399fd5-007e-40f2-aa35-92bdd0dd136b,Ulan Bator,New Zealand,Chickweed,Carrot
+8ac1ef27-c3d7-4c89-b853-ea2ca3d5ab92,Taichung,"Palestinian Territory, Occupied",Chickweed,Aubergine
+4b693349-2548-4bc5-8d78-2478242a1d0d,Surat,Tonga,Plantain,Aubergine
+6d1db9ba-0ded-4871-8e73-6ef004ab7099,Norilsk,Syrian Arab Republic,Plantain,Aubergine
+3e71b591-048b-4962-82ff-e29649c66452,Santiago de Cuba,Togo,Crabgrass,Chickweed
+a5c96d48-572a-4ab4-8352-bacfce4afc6a,Suva,Philippines,Clover,Aubergine
+f1d0ccce-002f-46b3-81f5-ac5630bfb987,Durango,"Micronesia, Federated States of",Japanese knotweed,Clover
+0039399a-aac3-4b74-8d3e-03fbd3a48ffd,Agartala,Tonga,Purslane,Aubergine
+8c24a05e-1c2d-4c74-84be-2d7a6d64b1cf,Yellowknife,India,Plantain,Aubergine
+5720bbb5-fd29-4944-9c5d-3cfd502ce1f8,Nouméa,Cayman Islands,Creeping buttercup,Clover
+4684dc73-b97d-4a51-b293-0943e6eaa788,Phnom Penh,Saint Kitts and Nevis,Clover,Clover
+5bb46874-0353-4801-91eb-fda3df253cbe,Bujumbura,Antarctica,Crabgrass,Carrot
+25b0d4a5-ea65-47fc-a070-c81bec89f020,Guangzhou,Iraq,Chickweed,Carrot
+02d33076-6d39-410d-9eb0-43fe1bd44026,Road Town,Portugal,Chickweed,Clover
+387702d2-456c-431a-a5b7-36d6f2805e0e,Lyon,Saint Pierre and Miquelon,Clover,Clover
+7205c775-ea59-445a-9c0f-0e52bfbf3a15,Honiara,Saint Pierre and Miquelon,Crabgrass,"Strawberry "
+df67ef31-d18f-4e9c-9d8e-0b5ff3fac68c,Khartoum,Cyprus,Bindweed,Carrot
+4b6bae95-a2e7-4436-ae57-c9b793354580,South Tarawa,Isle of Man,Purslane,Aubergine
+52b8d386-dacd-404f-b406-12930b918ed2,Málaga,Romania,Creeping buttercup,Sunflower
+54d222e4-e253-4bda-89f7-ced9555bb091,Salt Lake City,Jordan,Plantain,Clover
+443ef2c1-fab1-4d2d-a3bf-70b0de3e7392,Dongguan,Kyrgyzstan,Chickweed,Chickweed
+55865fc0-7f73-459d-9921-29b506830f3f,Islamabad,Lebanon,Creeping buttercup,Aubergine
+3d9384b2-080a-4953-89ba-a93574a6cefb,Cairns,Bangladesh,Chickweed,Aubergine
+1525f089-ff63-429b-8e72-a7e911f10871,Bogor,Marshall Islands,Bindweed,Cucumber
+ef134613-6db1-4b29-b9ed-7013778ec77b,Doha,Nicaragua,Bindweed,Clover
+d92c50a4-5219-4baa-abcd-75f3879fa3b6,Iquique,Wallis and Futuna,Clover,Clover
+5814a097-fdb2-4504-9eac-5404d9216afb,South Tarawa,"Taiwan, Province of China",Japanese knotweed,Clover
+928abf84-f46b-4025-9367-60c302eb4ed8,Naypyidaw,Estonia,Clover,Cucumber
+cfd5c4d5-aa94-4a03-967b-66c1e679439a,Columbus,Equatorial Guinea,Japanese knotweed,Aubergine
+812c790e-313b-4bdb-a015-3f715e6bace1,Yakutsk,Japan,Chickweed,"Strawberry "
+8ee91c46-5527-4057-ac5c-2a63e3b21060,Shanghai,"Palestinian Territory, Occupied",Bindweed,Clover
+81ea26b9-ec62-490c-945f-ab1183ad0e5f,Sri Jayawardenapura-Kotte,Haiti,Purslane,Clover
+2bb15ed8-b34d-4d74-b71b-72b29575e66d,Thimphu,Monaco,Japanese knotweed,Cucumber
+8621ed98-f28e-4080-a132-7204778bf69d,Basra,Saint Lucia,Bindweed,Sunflower
+d570f7ae-37c8-41d4-bfd3-3aac205b914e,Denver,Madagascar,Chickweed,Aubergine
+34aaf738-17a6-42e6-a080-7cb389e8f381,Cincinnati,Greece,Plantain,Clover
+33130a75-db43-42f3-ab4d-d915ebf32e25,Santiago de Cuba,Lebanon,Clover,Clover
+693ccb4b-32ee-426f-a2e7-a14601d60be3,Adamstown,Tajikistan,Plantain,Clover
+081fd909-89b8-4720-9e8e-e45e9cb29b82,San José,Sudan,Clover,Clover
+d66d2824-2acc-4983-94f8-2065561cf20c,Minsk,Angola,Plantain,Chickweed
+a65bc93e-ee64-4549-82a7-faf48d662b4e,Seoul,Burundi,Creeping buttercup,"Strawberry "
+146a4e58-533a-4a58-8269-9d97cceb2bf3,Dallas,Canada,Chickweed,Plantain
+2cd9c5a0-7998-4b85-858d-73cbd80e58e4,Mogadishu,Wallis and Futuna,Chickweed,Cucumber
+6157691a-8b80-4d35-aa44-9be578dda494,Kraków,Antigua and Barbuda,Purslane,Clover
+d5c52b93-9477-4a9d-9c36-c37094a4ac6c,Adelaide,Burundi,Chickweed,Sunflower
+f9536bdb-39ba-4c58-b3ce-c390fded56d9,Melekeok,Haiti,Creeping buttercup,Plantain
+6cb49a9f-ab31-4fcf-bdbb-757a4454770d,Iloilo City,"Palestinian Territory, Occupied",Bindweed,Chickweed
+a5b91aa9-cdae-4cab-b445-fa517b8062d1,Adak,Angola,Clover,Clover
+3a16a902-b685-4fb9-b3a7-def4c4f06e54,Lhasa,Guyana,Purslane,Clover
+b246bf48-2f0e-4779-893d-4b8f3e5eddf2,Jaipur,Oman,Bindweed,Carrot
+6d43d4a6-7409-4fa8-bd7e-3b6c0bc0e68b,Tórshavn,Netherlands,Chickweed,Cucumber
+dbfdcdef-f322-40f2-bb87-5aa2c24edcaa,Minsk,Puerto Rico,Bindweed,Clover
+0e394160-a744-40bb-96d1-0af36489322f,Ibiza,Heard Island and Mcdonald Islands,Japanese knotweed,Plantain
+abe70aa8-a5b3-4969-ba72-c93f7e52f4dc,Las Vegas,Haiti,Clover,Clover
+a923de40-8864-44af-ac93-c1b1f21befec,Pelotas,United Arab Emirates,Crabgrass,Clover
+f11beefb-3777-440b-a59a-81293499f8b8,Rome,Denmark,Chickweed,"Strawberry "
+f12b8394-06c6-4a87-8d55-6f76aa589226,Mashhad,Belize,Plantain,Aubergine
+d21499bb-fa43-4501-8e27-b0b3dc985634,Tamale,Denmark,Bindweed,Carrot
+b50ca594-75e5-4a59-8779-1b7f4397c666,Austin,Slovenia,Clover,Aubergine
+c3b993b4-5495-49a1-92f7-e73f68a1dbd9,Djibouti (city),Botswana,Creeping buttercup,Clover
+5ee1f5d0-02fb-49c7-939e-d5028033c862,Port Blair,Israel,Bindweed,Chickweed
+130f26ff-c7c4-4886-9be4-ab1978709b6c,Huế,Seychelles,Bindweed,Clover
+ed05cce0-0398-4012-b84b-f82f9aaa3d7d,Bamako,Panama,Crabgrass,Clover
+ed52782d-ee4a-456a-a47a-24a602e9400f,Iloilo City,"Micronesia, Federated States of",Creeping buttercup,Sunflower
+878b3d98-8f77-4929-b3c0-04fd510aca16,São Paulo,Algeria,Crabgrass,"Strawberry "
+27115fa0-8a27-4ee6-838c-31b8c8bccb0b,Johor Bahru,Chad,Clover,Clover
+33f4c2a3-091b-4a77-bd20-c35e75aa0118,Nukuʻalofa,Costa Rica,Clover,Clover
+a0766b94-85d9-4448-aee0-1143a45080ee,Arbil,"Korea, Republic of",Clover,Chickweed
+6cd7b6e9-209c-4204-98c8-c915c24c7ea3,Novosibirsk,Armenia,Clover,"Strawberry "
+d376bb8b-1d35-4e8c-a933-374b2071e928,Cuiabá,Bouvet Island,Clover,Clover
+1d2c8b71-5ff3-43ad-9289-81b2f999ca2a,Strasbourg,Heard Island and Mcdonald Islands,Crabgrass,Clover
+d3d72931-d4ab-4c09-a9b7-fdddf0c9f6db,Bloemfontein,Austria,Japanese knotweed,Aubergine
+af4e49a9-5322-4511-88e4-846366365405,Dublin,Antigua and Barbuda,Crabgrass,Clover
+9a316cd2-3285-45d7-bc73-78a3935e84c4,Kingston,Nicaragua,Creeping buttercup,Clover
+bd3ef306-2195-487f-8076-1889b8fd4f56,Gdańsk,Vanuatu,Plantain,"Strawberry "
+aa5a3c84-d922-4a13-b228-e3268266ea4c,Naypyidaw,Denmark,Japanese knotweed,Plantain
+61b3c463-3c62-421e-a1f0-2d3189e11df9,Whitehorse,Reunion,Purslane,Aubergine
+9cc8188f-4906-4fdf-a7fe-34561230801f,Bridgetown,Guam,Plantain,Sunflower
+a4db5a9e-59c1-4972-99ea-f908a87384f5,Bogotá,Trinidad and Tobago,Crabgrass,Sunflower
+dcd02007-fbed-407d-822a-ce625c52f7b0,Málaga,Vanuatu,Purslane,Clover
+26f96c21-2bba-4b17-840f-ecd7350c180d,Kuala Lumpur,Senegal,Chickweed,Chickweed
+d33e0544-8038-400d-9f35-db1647cb5003,Longyearbyen,Saudi Arabia,Japanese knotweed,Clover
+3cd9399e-6496-43b2-985c-c5b3f7c9345b,Madrid,Finland,Creeping buttercup,Clover
+c5a96708-d86b-42ff-bd81-390659a2d72c,Bangui,Equatorial Guinea,Chickweed,Sunflower
+d520ce94-c682-44c5-8f3b-e8152d64f19d,Yaren District,Bhutan,Chickweed,Plantain
+9578ff11-1111-4189-9c85-350a00ea051a,Roseau,Japan,Bindweed,Cucumber
+5c875cd9-3f14-425b-b038-26d62346d182,Lobamba,Nigeria,Chickweed,Clover
+61cbdbe2-0f5c-47fb-8b9d-5552d3296ccd,Hangzhou,Armenia,Clover,Aubergine
+df46b468-e47a-4270-951c-1c4d786a38e3,Monterrey,Bulgaria,Crabgrass,Clover
+55a3dea7-615b-49ef-b987-fd752fc4d07e,Casablanca,Seychelles,Plantain,Cucumber
+6619a1b9-32d2-40a6-b443-217349a6b35b,Port-au-Prince,Turkey,Creeping buttercup,Sunflower
+00d53e53-fb66-48b2-b485-97ae045e6b4d,Las Vegas,Isle of Man,Chickweed,Clover
+786bbfa6-858d-46d9-ba28-5ca3c363b100,Suez,Cayman Islands,Bindweed,Clover
+7051d351-2543-45fc-a918-2f37148dacf4,Rosario,Albania,Purslane,Carrot
+91d37423-7ec0-44dc-803e-16342be09b74,Toulouse,Brunei Darussalam,Chickweed,Clover
+eb2059ab-9ba5-4226-a196-c2ee859d0ada,İzmir,Gabon,Bindweed,"Strawberry "
+611b5c54-3a10-418b-ad60-1a764866c360,Nouakchott,Netherlands,Crabgrass,Aubergine
+fb70c76d-e80a-46c5-ac6d-d640bccbe74e,Espoo,Guernsey,Purslane,Cucumber
+200f6688-a923-4e99-bd43-3624b27ed77b,San Francisco,"Macedonia, The Former Yugoslav Republic of",Bindweed,"Strawberry "
+bdd4abf2-2bd4-4254-84c8-b7195557c40b,Chiang Mai,Ireland,Plantain,Plantain
+15efb959-12c9-4cf9-897f-d494f1ae1afd,Zhengzhou,Bouvet Island,Creeping buttercup,Clover
+c1629efc-6bdb-4005-817e-eb358672e3e8,Albuquerque,Nigeria,Clover,Clover
+2148bd9c-8836-49c3-a7ae-0b697f8c7af9,Jinan,Samoa,Plantain,"Strawberry "
+edd23fee-2a82-4677-afe2-c4f3d96031dc,Chihuahua,British Indian Ocean Territory,Clover,Clover
+92818bd5-65d0-48da-82cb-f58e9bfecbc3,Horta (Azores),Algeria,Purslane,Clover
+97f5889b-be80-40b9-91b3-cd8e648b6bb3,São Tomé,Slovenia,Crabgrass,Aubergine
+0d2ad2a0-6865-4676-81e9-861dd9612ba2,Belgrade,Latvia,Creeping buttercup,Carrot
+ccd1fbc7-2cdb-4846-a3ba-0610d279861b,Moscow,Latvia,Chickweed,"Strawberry "
+a12c552b-1e85-42c6-ab36-3fae5faa739c,Tijuana,Nigeria,Japanese knotweed,Cucumber
+270a59e9-33c0-4076-b8b7-7508d5f3df94,Cotonou,Pitcairn,Japanese knotweed,Aubergine
+f8fe3dd2-0a22-4a9a-8fc3-48110e41cf43,Shenyang,France,Purslane,Cucumber
+0599d938-367a-4150-9144-c1a178dadbc1,Mumbai,Greece,Japanese knotweed,Clover
+cecb1943-599a-411e-ae73-a4182ebe3ada,Guadalajara,France,Plantain,"Strawberry "
+45b28e2b-e909-4d40-a53d-4c7f1f2692a2,Adana,Bhutan,Plantain,"Strawberry "
+ff47ffb1-0ef8-4eec-bed5-097d85fbbf5d,Munich,Nauru,Bindweed,Cucumber
+1d8ea751-b041-4ea1-bddf-a193b5521860,Rochester,New Zealand,Plantain,Carrot
+a2aa8daa-3a53-4963-ada9-4541f1a72da9,Monrovia,Zimbabwe,Clover,Aubergine
+4e0a2e45-36a7-48b6-bfdf-caa0aad196f4,Kaliningrad,Falkland Islands (Malvinas),Chickweed,Cucumber
+f0339e72-c511-4747-aba7-bc503aaa1c72,Bamako,Macao,Chickweed,Chickweed
+8c54a81d-8033-4564-bf04-7695aba08774,Nizhny Novgorod,Swaziland,Purslane,Sunflower
+c8fe41d4-b4b7-4772-bd8a-768cd38ea79c,Zürich,Kuwait,Plantain,Clover
+25a562b1-b59b-4c54-b16f-549660486a93,Blantyre,Timor-Leste,Plantain,Clover
+d1ffb64d-ae0f-4452-bdab-5038ad13df08,Tokyo,Latvia,Crabgrass,Sunflower
+0b04a5a5-9878-4e59-9538-71956ff9beac,Siem Reap,United Kingdom,Clover,Aubergine
+507e6642-2bb7-49b2-bcec-807fd67f2049,Louisville,Wallis and Futuna,Bindweed,Chickweed
+d5e8c2c7-127e-448f-a5ab-a3efb5919b67,Fort-de-France,Liberia,Clover,"Strawberry "
+c288ad34-fc35-4469-bf62-49de1f25d2ef,Longyearbyen,Croatia,Purslane,Clover
+227cb0a5-44ec-4fd0-8cc1-ee8e842ba208,Milwaukee,Kyrgyzstan,Japanese knotweed,Clover
+ff6a4cfc-abcf-4cb2-93da-d6934eaf5901,Timbuktu,Morocco,Plantain,Carrot
+aeaf3a32-3206-4092-83df-906c915843e8,Miri,Myanmar,Chickweed,Chickweed
+093ab9e4-53d4-4f36-a582-66f04c7204fb,Montevideo,American Samoa,Chickweed,Cucumber
+9ca4b90f-aac5-4f81-a0b3-22ea4686f079,Banjul,Svalbard and Jan Mayen,Plantain,Aubergine
+79387101-c7c0-4a26-8401-9a4ffcfa4c11,Yaren District,Bahamas,Crabgrass,Carrot
+66f99815-8113-4832-81b1-fb7d84f8857f,Gibraltar,Zambia,Clover,Aubergine
+366ddb82-a37d-4249-9159-7b5707af67cd,Surat Thani,Lesotho,Japanese knotweed,Cucumber
+92159bf6-24e2-4b9b-a393-175f74dd71ab,Palikir,Niue,Chickweed,Plantain
+e815f20e-acbe-4988-bf02-713218b123e0,Shenzhen,Swaziland,Chickweed,Plantain
+9d586996-1c31-4b16-a837-c3a9eaeff5a3,Palikir,"Cote D""Ivoire",Crabgrass,Sunflower
+81ad4791-635f-45ea-afe5-01034e4963a8,Blantyre,Jersey,Creeping buttercup,Clover
+41aa254c-efbd-48a8-a895-b6177b3d9edf,Cannes,Seychelles,Bindweed,Sunflower
+cab5cc6c-9b1f-4923-abd8-60da001bb0ab,Timbuktu,Netherlands Antilles,Bindweed,Sunflower
+4431b162-0e27-4f15-87e2-d81fe7655a4e,Durango,French Southern Territories,Creeping buttercup,Aubergine
+9514a8b8-7782-4f0f-8271-8b0e655684f4,Split (city),Pitcairn,Crabgrass,Carrot
+532a05b5-17fb-443e-b666-1e1be17a101a,Washington,Malta,Clover,Carrot
+b464b7cb-c38f-4fb0-81ac-e3d0d4215c1b,Freetown,Congo,Japanese knotweed,Clover
+d13cd321-807e-48a6-85b1-daeba77c0311,Douglas,"Virgin Islands, U.S.",Plantain,Carrot
+0b380080-0742-4c30-9ce3-2f7042a23116,Aberdeen,Bahamas,Crabgrass,Cucumber
+6c830551-340a-4c40-a0ed-f380f3d4b719,Whitehorse,Timor-Leste,Clover,Sunflower
+6ca51c73-c03b-458b-aee0-f3308c1867a0,Longyearbyen,Burkina Faso,Clover,Sunflower
+bceb0ee8-f664-4d34-9cfb-ab1715307b43,Pyongyang,Uzbekistan,Purslane,Clover
+88c50195-0985-41e6-8974-7105c6889e49,Dunedin,"Moldova, Republic of",Purslane,Clover
+27b8f663-b792-4872-86e6-a4630b88b4f8,Vaduz,Burkina Faso,Crabgrass,Chickweed
+f3a0ef61-0530-444d-accc-fca7a5de71ce,Punta Arenas,Norway,Japanese knotweed,Clover
+46707b19-00c9-40dc-9839-8a3b16cf37dd,Nicosia,"Moldova, Republic of",Plantain,Sunflower
+1ac0a39e-2b31-47c8-9401-f68921ae9d2e,Gibraltar,Nigeria,Clover,Aubergine
+0896442b-465b-4d0e-9ee3-620823e65b44,Tagbilaran,Armenia,Crabgrass,Carrot
+105bd0fa-2ded-46b1-9b41-2552207226f0,Kraków,Western Sahara,Purslane,Chickweed
+5383c3ee-e6f3-4d63-91e9-aff319b3f1f2,Nizhny Novgorod,South Africa,Bindweed,Plantain
+51448304-6875-4e83-8e62-5d55d956144b,Asunción,Grenada,Clover,Sunflower
+67a3f318-a5c4-4af5-b9c6-c0765281a00f,Omdurman,Finland,Creeping buttercup,Plantain
+40b063d6-076f-49d9-a6e8-35d557658299,Jakarta,India,Creeping buttercup,Carrot
+1c6882e3-43fb-4edc-92f7-468532f06248,Gold Coast,Afghanistan,Creeping buttercup,Cucumber
+7ff6c820-4bcb-4394-817e-1d41fd5b2568,Saint John,Antigua and Barbuda,Bindweed,Cucumber
+dc15f064-ae8d-4858-8a62-64e30a722d73,Ushuaia,Namibia,Bindweed,Chickweed
+8d9d8a34-e018-4b00-aa0a-9b0d890ff34a,George Town,Tunisia,Crabgrass,"Strawberry "
+14179092-3ff0-4a2c-94cb-218bb095e9d8,Bahía Blanca,Seychelles,Plantain,Clover
+ba2a5efe-40f8-4b8d-b5ca-a0052cc9442b,Kathmandu,Svalbard and Jan Mayen,Japanese knotweed,Sunflower
+4f4a4b49-6ae0-4a7a-8331-1e034a746dfd,Fort-de-France,Saint Pierre and Miquelon,Creeping buttercup,Plantain
+c311a8e0-604b-4c55-852d-b73a95821728,Sabha,Norfolk Island,Japanese knotweed,Aubergine
+e64c3694-7adf-4d8b-841f-1fbf54646ef3,Wonsan,Kuwait,Creeping buttercup,Clover
+b5be4fdd-2b5d-40af-a0aa-436bb2cfe3b0,Punta Arenas,Guernsey,Japanese knotweed,Carrot
+77649210-2d43-4bc8-a79b-faa87275c60b,Asunción,Jordan,Purslane,Aubergine
+efc14c88-d153-4104-a8a9-b0ece67dbae8,Valparaíso,Lebanon,Creeping buttercup,Chickweed
+2d9b19cc-2ecf-4b53-8cb7-74f6e27a30ef,Chiang Mai,Liechtenstein,Crabgrass,"Strawberry "
+8c61f19b-2905-42e2-9ca1-6b5997675d62,Bandung,Ecuador,Plantain,Aubergine
+0dd5932f-11a3-468c-92c4-02defc48c471,Aberdeen,Serbia and Montenegro,Bindweed,"Strawberry "
+6ab83c7a-fb83-4035-ad30-05ee30814530,İzmir,Italy,Creeping buttercup,Chickweed
+33e8cf32-60d9-430a-9e5c-5a3858d8689b,New Orleans,Kenya,Japanese knotweed,Clover
+4454157a-5336-4457-a6c7-a2d6fbd06928,Dar es Salaam,Cape Verde,Plantain,Carrot
+59771de0-dd5f-4aa0-b953-99bc62cf9bdc,Cebu City,"Korea, Democratic People""S Republic of",Plantain,"Strawberry "
+1ed58a04-e4fe-4a61-a3d0-3d1c368b3c68,La Serena,Anguilla,Chickweed,Cucumber
+52b77189-a1d8-4a33-a615-e4795e5ec80d,Douglas,Saint Helena,Clover,Cucumber
+9789dbd2-5667-4ce3-b5ba-a581ab55b7dc,Bucharest,Paraguay,Bindweed,Clover
+b8bbaac5-b42a-43b7-b822-17ab1b53ece9,Livingstone,Czech Republic,Bindweed,Clover
+cc6b6c1c-7bca-4521-b5aa-63320bae33fe,Kingstown,Bahamas,Crabgrass,Clover
+cefa1de0-041b-4ab6-8ec9-9e19d531789b,Islamabad,Greenland,Purslane,Clover
+594f3bd7-1b6f-4c0a-bce0-2871d701eb3e,Hamburg,Lesotho,Plantain,Carrot
+638f3489-3b23-4234-ad56-8c2f7904400d,Tucson,Netherlands Antilles,Crabgrass,Clover
+53f5d3fd-eb6c-4c24-bb21-e0a0f2678e85,Bujumbura,Mayotte,Purslane,"Strawberry "
+3daad53d-2575-40cd-a428-ec500cc6afcb,Bandung,"Korea, Republic of",Creeping buttercup,Sunflower
+fd63103e-7dfe-495d-a03e-5132f86440b3,Kuching,AndorrA,Purslane,Clover
+acbb09bb-57de-4ae8-a8e0-4c0f4726c54e,Almaty,Slovakia,Clover,"Strawberry "
+2ab4194a-699d-4270-a928-c3e67cf42b92,Surat,Barbados,Bindweed,Clover
+3902ba00-3735-46ab-8447-19772aea986d,Denver,Venezuela,Clover,Clover
+eb411fa4-3e4c-4362-9648-dff8f8ec06aa,Changchun,Bosnia and Herzegovina,Creeping buttercup,Clover
+903ae133-5e50-421c-babc-911e497a230e,Semarang,Saint Kitts and Nevis,Clover,"Strawberry "
+8f56838e-2a2e-4144-a701-7ada49a380c0,New Delhi,Uruguay,Plantain,Clover
+c0bae7e5-a17f-48da-b42e-8cf9567d3142,Gaza,China,Purslane,Plantain
+577f0c05-9dac-4485-8518-31db272f85a9,Yaoundé,Samoa,Crabgrass,Sunflower
+f2c21b7d-5fa3-4070-a3ed-51507101ca46,Budapest,"Moldova, Republic of",Crabgrass,Carrot
+33c9460b-a816-4440-94d6-408f6c0c0df1,Houston,Barbados,Bindweed,"Strawberry "
+da32e556-9e53-43f9-9ea8-88a87f499290,Mata-Utu,Slovenia,Crabgrass,Sunflower
+7c76dbde-b97a-4e5b-aa37-8793b8076f5f,Jinan,Guyana,Japanese knotweed,"Strawberry "
+a5aa5fe1-686b-4440-b14a-aaa13ebfe74f,Majuro,French Guiana,Crabgrass,Sunflower
+4c76eb7f-f1a4-4b50-8389-d9ed7bf1768e,Jakarta,Dominica,Plantain,"Strawberry "
+59f4c63c-fbdc-48d4-b4ae-6c919599ddc6,Atlanta,Cuba,Plantain,Sunflower
+10642f01-e15c-4e5d-acb7-e804b5c455f6,Regina,Kenya,Plantain,Clover
