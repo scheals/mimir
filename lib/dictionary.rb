@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-
+# This class deals with removing and replacing words.
 class Dictionary
   attr_reader :words_to_remove
 
